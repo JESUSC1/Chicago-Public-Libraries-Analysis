@@ -1,0 +1,961 @@
+NAME,YEAR,TOTAL_VISITORS_YEAR,PROBLEM_WITH_COUNTER,MONTH,MONTH_NUMBER,SEASON,VISITOR_COUNT
+Albany Park,2020,52199,False,JAN,1,Winter,9878
+Albany Park,2020,52199,False,FEB,2,Winter,9473
+Albany Park,2020,52199,False,MAR,3,Spring,5077
+Albany Park,2020,52199,False,APR,4,Spring,0
+Albany Park,2020,52199,False,MAY,5,Spring,0
+Albany Park,2020,52199,False,JUN,6,Summer,3188
+Albany Park,2020,52199,False,JUL,7,Summer,4156
+Albany Park,2020,52199,False,AUG,8,Summer,4566
+Albany Park,2020,52199,False,SEP,9,Fall,4295
+Albany Park,2020,52199,False,OCT,10,Fall,4272
+Albany Park,2020,52199,False,NOV,11,Fall,3727
+Albany Park,2020,52199,False,DEC,12,Winter,3567
+Altgeld,2020,5666,False,JAN,1,Winter,2730
+Altgeld,2020,5666,False,FEB,2,Winter,1809
+Altgeld,2020,5666,False,MAR,3,Spring,1127
+Altgeld,2020,5666,False,APR,4,Spring,0
+Altgeld,2020,5666,False,MAY,5,Spring,0
+Altgeld,2020,5666,False,JUN,6,Summer,0
+Altgeld,2020,5666,False,JUL,7,Summer,0
+Altgeld,2020,5666,False,AUG,8,Summer,0
+Altgeld,2020,5666,False,SEP,9,Fall,0
+Altgeld,2020,5666,False,OCT,10,Fall,0
+Altgeld,2020,5666,False,NOV,11,Fall,0
+Altgeld,2020,5666,False,DEC,12,Winter,0
+Archer Heights,2020,40849,False,JAN,1,Winter,6620
+Archer Heights,2020,40849,False,FEB,2,Winter,5803
+Archer Heights,2020,40849,False,MAR,3,Spring,4045
+Archer Heights,2020,40849,False,APR,4,Spring,0
+Archer Heights,2020,40849,False,MAY,5,Spring,0
+Archer Heights,2020,40849,False,JUN,6,Summer,2697
+Archer Heights,2020,40849,False,JUL,7,Summer,3767
+Archer Heights,2020,40849,False,AUG,8,Summer,3754
+Archer Heights,2020,40849,False,SEP,9,Fall,3737
+Archer Heights,2020,40849,False,OCT,10,Fall,3999
+Archer Heights,2020,40849,False,NOV,11,Fall,3198
+Archer Heights,2020,40849,False,DEC,12,Winter,3229
+Austin,2020,48452,False,JAN,1,Winter,9335
+Austin,2020,48452,False,FEB,2,Winter,9562
+Austin,2020,48452,False,MAR,3,Spring,5390
+Austin,2020,48452,False,APR,4,Spring,0
+Austin,2020,48452,False,MAY,5,Spring,0
+Austin,2020,48452,False,JUN,6,Summer,1838
+Austin,2020,48452,False,JUL,7,Summer,3614
+Austin,2020,48452,False,AUG,8,Summer,4584
+Austin,2020,48452,False,SEP,9,Fall,4122
+Austin,2020,48452,False,OCT,10,Fall,3932
+Austin,2020,48452,False,NOV,11,Fall,3152
+Austin,2020,48452,False,DEC,12,Winter,2923
+Austin-Irving,2020,44549,False,JAN,1,Winter,7867
+Austin-Irving,2020,44549,False,FEB,2,Winter,7380
+Austin-Irving,2020,44549,False,MAR,3,Spring,4222
+Austin-Irving,2020,44549,False,APR,4,Spring,0
+Austin-Irving,2020,44549,False,MAY,5,Spring,0
+Austin-Irving,2020,44549,False,JUN,6,Summer,1972
+Austin-Irving,2020,44549,False,JUL,7,Summer,2810
+Austin-Irving,2020,44549,False,AUG,8,Summer,2823
+Austin-Irving,2020,44549,False,SEP,9,Fall,5558
+Austin-Irving,2020,44549,False,OCT,10,Fall,6360
+Austin-Irving,2020,44549,False,NOV,11,Fall,2820
+Austin-Irving,2020,44549,False,DEC,12,Winter,2737
+Avalon,2020,45243,False,JAN,1,Winter,8908
+Avalon,2020,45243,False,FEB,2,Winter,7616
+Avalon,2020,45243,False,MAR,3,Spring,4437
+Avalon,2020,45243,False,APR,4,Spring,0
+Avalon,2020,45243,False,MAY,5,Spring,0
+Avalon,2020,45243,False,JUN,6,Summer,2713
+Avalon,2020,45243,False,JUL,7,Summer,3939
+Avalon,2020,45243,False,AUG,8,Summer,4140
+Avalon,2020,45243,False,SEP,9,Fall,3933
+Avalon,2020,45243,False,OCT,10,Fall,3899
+Avalon,2020,45243,False,NOV,11,Fall,3575
+Avalon,2020,45243,False,DEC,12,Winter,2083
+Back of the Yards,2020,20016,False,JAN,1,Winter,3226
+Back of the Yards,2020,20016,False,FEB,2,Winter,3246
+Back of the Yards,2020,20016,False,MAR,3,Spring,1848
+Back of the Yards,2020,20016,False,APR,4,Spring,0
+Back of the Yards,2020,20016,False,MAY,5,Spring,0
+Back of the Yards,2020,20016,False,JUN,6,Summer,1643
+Back of the Yards,2020,20016,False,JUL,7,Summer,1652
+Back of the Yards,2020,20016,False,AUG,8,Summer,1810
+Back of the Yards,2020,20016,False,SEP,9,Fall,1820
+Back of the Yards,2020,20016,False,OCT,10,Fall,1870
+Back of the Yards,2020,20016,False,NOV,11,Fall,1503
+Back of the Yards,2020,20016,False,DEC,12,Winter,1398
+Beverly,2020,17422,False,JAN,1,Winter,2881
+Beverly,2020,17422,False,FEB,2,Winter,2843
+Beverly,2020,17422,False,MAR,3,Spring,1537
+Beverly,2020,17422,False,APR,4,Spring,0
+Beverly,2020,17422,False,MAY,5,Spring,0
+Beverly,2020,17422,False,JUN,6,Summer,1119
+Beverly,2020,17422,False,JUL,7,Summer,1360
+Beverly,2020,17422,False,AUG,8,Summer,2003
+Beverly,2020,17422,False,SEP,9,Fall,1442
+Beverly,2020,17422,False,OCT,10,Fall,1753
+Beverly,2020,17422,False,NOV,11,Fall,1348
+Beverly,2020,17422,False,DEC,12,Winter,1136
+Bezazian,2020,41366,False,JAN,1,Winter,9959
+Bezazian,2020,41366,False,FEB,2,Winter,9130
+Bezazian,2020,41366,False,MAR,3,Spring,6567
+Bezazian,2020,41366,False,APR,4,Spring,0
+Bezazian,2020,41366,False,MAY,5,Spring,0
+Bezazian,2020,41366,False,JUN,6,Summer,2147
+Bezazian,2020,41366,False,JUL,7,Summer,2596
+Bezazian,2020,41366,False,AUG,8,Summer,2802
+Bezazian,2020,41366,False,SEP,9,Fall,2700
+Bezazian,2020,41366,False,OCT,10,Fall,2787
+Bezazian,2020,41366,False,NOV,11,Fall,2265
+Bezazian,2020,41366,False,DEC,12,Winter,413
+Blackstone,2020,20075,False,JAN,1,Winter,7216
+Blackstone,2020,20075,False,FEB,2,Winter,6828
+Blackstone,2020,20075,False,MAR,3,Spring,3628
+Blackstone,2020,20075,False,APR,4,Spring,0
+Blackstone,2020,20075,False,MAY,5,Spring,0
+Blackstone,2020,20075,False,JUN,6,Summer,309
+Blackstone,2020,20075,False,JUL,7,Summer,0
+Blackstone,2020,20075,False,AUG,8,Summer,0
+Blackstone,2020,20075,False,SEP,9,Fall,0
+Blackstone,2020,20075,False,OCT,10,Fall,0
+Blackstone,2020,20075,False,NOV,11,Fall,140
+Blackstone,2020,20075,False,DEC,12,Winter,1954
+Brainerd,2020,10608,False,JAN,1,Winter,2455
+Brainerd,2020,10608,False,FEB,2,Winter,2279
+Brainerd,2020,10608,False,MAR,3,Spring,1522
+Brainerd,2020,10608,False,APR,4,Spring,0
+Brainerd,2020,10608,False,MAY,5,Spring,0
+Brainerd,2020,10608,False,JUN,6,Summer,707
+Brainerd,2020,10608,False,JUL,7,Summer,494
+Brainerd,2020,10608,False,AUG,8,Summer,600
+Brainerd,2020,10608,False,SEP,9,Fall,686
+Brainerd,2020,10608,False,OCT,10,Fall,726
+Brainerd,2020,10608,False,NOV,11,Fall,559
+Brainerd,2020,10608,False,DEC,12,Winter,580
+Brighton Park,2020,18470,False,JAN,1,Winter,3894
+Brighton Park,2020,18470,False,FEB,2,Winter,3562
+Brighton Park,2020,18470,False,MAR,3,Spring,2639
+Brighton Park,2020,18470,False,APR,4,Spring,0
+Brighton Park,2020,18470,False,MAY,5,Spring,0
+Brighton Park,2020,18470,False,JUN,6,Summer,561
+Brighton Park,2020,18470,False,JUL,7,Summer,1346
+Brighton Park,2020,18470,False,AUG,8,Summer,1323
+Brighton Park,2020,18470,False,SEP,9,Fall,1174
+Brighton Park,2020,18470,False,OCT,10,Fall,1638
+Brighton Park,2020,18470,False,NOV,11,Fall,1194
+Brighton Park,2020,18470,False,DEC,12,Winter,1139
+Bucktown-Wicker Park,2020,56489,False,JAN,1,Winter,10699
+Bucktown-Wicker Park,2020,56489,False,FEB,2,Winter,9981
+Bucktown-Wicker Park,2020,56489,False,MAR,3,Spring,5663
+Bucktown-Wicker Park,2020,56489,False,APR,4,Spring,0
+Bucktown-Wicker Park,2020,56489,False,MAY,5,Spring,0
+Bucktown-Wicker Park,2020,56489,False,JUN,6,Summer,2034
+Bucktown-Wicker Park,2020,56489,False,JUL,7,Summer,3654
+Bucktown-Wicker Park,2020,56489,False,AUG,8,Summer,4991
+Bucktown-Wicker Park,2020,56489,False,SEP,9,Fall,4948
+Bucktown-Wicker Park,2020,56489,False,OCT,10,Fall,5154
+Bucktown-Wicker Park,2020,56489,False,NOV,11,Fall,4552
+Bucktown-Wicker Park,2020,56489,False,DEC,12,Winter,4813
+Budlong Woods,2020,64341,False,JAN,1,Winter,10069
+Budlong Woods,2020,64341,False,FEB,2,Winter,9802
+Budlong Woods,2020,64341,False,MAR,3,Spring,8101
+Budlong Woods,2020,64341,False,APR,4,Spring,0
+Budlong Woods,2020,64341,False,MAY,5,Spring,0
+Budlong Woods,2020,64341,False,JUN,6,Summer,3299
+Budlong Woods,2020,64341,False,JUL,7,Summer,5719
+Budlong Woods,2020,64341,False,AUG,8,Summer,6141
+Budlong Woods,2020,64341,False,SEP,9,Fall,5455
+Budlong Woods,2020,64341,False,OCT,10,Fall,5560
+Budlong Woods,2020,64341,False,NOV,11,Fall,5100
+Budlong Woods,2020,64341,False,DEC,12,Winter,5095
+Canaryville,2020,6403,False,JAN,1,Winter,2493
+Canaryville,2020,6403,False,FEB,2,Winter,2555
+Canaryville,2020,6403,False,MAR,3,Spring,1355
+Canaryville,2020,6403,False,APR,4,Spring,0
+Canaryville,2020,6403,False,MAY,5,Spring,0
+Canaryville,2020,6403,False,JUN,6,Summer,0
+Canaryville,2020,6403,False,JUL,7,Summer,0
+Canaryville,2020,6403,False,AUG,8,Summer,0
+Canaryville,2020,6403,False,SEP,9,Fall,0
+Canaryville,2020,6403,False,OCT,10,Fall,0
+Canaryville,2020,6403,False,NOV,11,Fall,0
+Canaryville,2020,6403,False,DEC,12,Winter,0
+Chicago Bee,2020,9673,False,JAN,1,Winter,1905
+Chicago Bee,2020,9673,False,FEB,2,Winter,2577
+Chicago Bee,2020,9673,False,MAR,3,Spring,1414
+Chicago Bee,2020,9673,False,APR,4,Spring,0
+Chicago Bee,2020,9673,False,MAY,5,Spring,0
+Chicago Bee,2020,9673,False,JUN,6,Summer,527
+Chicago Bee,2020,9673,False,JUL,7,Summer,479
+Chicago Bee,2020,9673,False,AUG,8,Summer,540
+Chicago Bee,2020,9673,False,SEP,9,Fall,590
+Chicago Bee,2020,9673,False,OCT,10,Fall,612
+Chicago Bee,2020,9673,False,NOV,11,Fall,506
+Chicago Bee,2020,9673,False,DEC,12,Winter,523
+Chicago Lawn,2020,31619,False,JAN,1,Winter,2301
+Chicago Lawn,2020,31619,False,FEB,2,Winter,5013
+Chicago Lawn,2020,31619,False,MAR,3,Spring,3568
+Chicago Lawn,2020,31619,False,APR,4,Spring,0
+Chicago Lawn,2020,31619,False,MAY,5,Spring,0
+Chicago Lawn,2020,31619,False,JUN,6,Summer,1905
+Chicago Lawn,2020,31619,False,JUL,7,Summer,3726
+Chicago Lawn,2020,31619,False,AUG,8,Summer,3706
+Chicago Lawn,2020,31619,False,SEP,9,Fall,2917
+Chicago Lawn,2020,31619,False,OCT,10,Fall,3224
+Chicago Lawn,2020,31619,False,NOV,11,Fall,2730
+Chicago Lawn,2020,31619,False,DEC,12,Winter,2529
+Chinatown,2020,68972,False,JAN,1,Winter,19325
+Chinatown,2020,68972,False,FEB,2,Winter,14701
+Chinatown,2020,68972,False,MAR,3,Spring,10222
+Chinatown,2020,68972,False,APR,4,Spring,0
+Chinatown,2020,68972,False,MAY,5,Spring,0
+Chinatown,2020,68972,False,JUN,6,Summer,1884
+Chinatown,2020,68972,False,JUL,7,Summer,3375
+Chinatown,2020,68972,False,AUG,8,Summer,4147
+Chinatown,2020,68972,False,SEP,9,Fall,4159
+Chinatown,2020,68972,False,OCT,10,Fall,4854
+Chinatown,2020,68972,False,NOV,11,Fall,3129
+Chinatown,2020,68972,False,DEC,12,Winter,3176
+Clearing,2020,30288,False,JAN,1,Winter,4334
+Clearing,2020,30288,False,FEB,2,Winter,4137
+Clearing,2020,30288,False,MAR,3,Spring,3327
+Clearing,2020,30288,False,APR,4,Spring,0
+Clearing,2020,30288,False,MAY,5,Spring,0
+Clearing,2020,30288,False,JUN,6,Summer,3125
+Clearing,2020,30288,False,JUL,7,Summer,3251
+Clearing,2020,30288,False,AUG,8,Summer,3085
+Clearing,2020,30288,False,SEP,9,Fall,2800
+Clearing,2020,30288,False,OCT,10,Fall,2300
+Clearing,2020,30288,False,NOV,11,Fall,2035
+Clearing,2020,30288,False,DEC,12,Winter,1894
+Coleman,2020,40137,False,JAN,1,Winter,6541
+Coleman,2020,40137,False,FEB,2,Winter,6593
+Coleman,2020,40137,False,MAR,3,Spring,4032
+Coleman,2020,40137,False,APR,4,Spring,0
+Coleman,2020,40137,False,MAY,5,Spring,0
+Coleman,2020,40137,False,JUN,6,Summer,2399
+Coleman,2020,40137,False,JUL,7,Summer,3196
+Coleman,2020,40137,False,AUG,8,Summer,3624
+Coleman,2020,40137,False,SEP,9,Fall,3334
+Coleman,2020,40137,False,OCT,10,Fall,3692
+Coleman,2020,40137,False,NOV,11,Fall,3370
+Coleman,2020,40137,False,DEC,12,Winter,3356
+"Daley, Richard J.",2020,26070,False,JAN,1,Winter,4565
+"Daley, Richard J.",2020,26070,False,FEB,2,Winter,4210
+"Daley, Richard J.",2020,26070,False,MAR,3,Spring,2989
+"Daley, Richard J.",2020,26070,False,APR,4,Spring,0
+"Daley, Richard J.",2020,26070,False,MAY,5,Spring,0
+"Daley, Richard J.",2020,26070,False,JUN,6,Summer,1503
+"Daley, Richard J.",2020,26070,False,JUL,7,Summer,1887
+"Daley, Richard J.",2020,26070,False,AUG,8,Summer,2104
+"Daley, Richard J.",2020,26070,False,SEP,9,Fall,2298
+"Daley, Richard J.",2020,26070,False,OCT,10,Fall,2744
+"Daley, Richard J.",2020,26070,False,NOV,11,Fall,2211
+"Daley, Richard J.",2020,26070,False,DEC,12,Winter,1559
+"Daley, Richard M.",2020,72402,False,JAN,1,Winter,10899
+"Daley, Richard M.",2020,72402,False,FEB,2,Winter,11767
+"Daley, Richard M.",2020,72402,False,MAR,3,Spring,7358
+"Daley, Richard M.",2020,72402,False,APR,4,Spring,0
+"Daley, Richard M.",2020,72402,False,MAY,5,Spring,0
+"Daley, Richard M.",2020,72402,False,JUN,6,Summer,5363
+"Daley, Richard M.",2020,72402,False,JUL,7,Summer,5653
+"Daley, Richard M.",2020,72402,False,AUG,8,Summer,5363
+"Daley, Richard M.",2020,72402,False,SEP,9,Fall,6430
+"Daley, Richard M.",2020,72402,False,OCT,10,Fall,7365
+"Daley, Richard M.",2020,72402,False,NOV,11,Fall,6105
+"Daley, Richard M.",2020,72402,False,DEC,12,Winter,6099
+Douglass,2020,5036,False,JAN,1,Winter,0
+Douglass,2020,5036,False,FEB,2,Winter,0
+Douglass,2020,5036,False,MAR,3,Spring,0
+Douglass,2020,5036,False,APR,4,Spring,0
+Douglass,2020,5036,False,MAY,5,Spring,0
+Douglass,2020,5036,False,JUN,6,Summer,388
+Douglass,2020,5036,False,JUL,7,Summer,1230
+Douglass,2020,5036,False,AUG,8,Summer,756
+Douglass,2020,5036,False,SEP,9,Fall,568
+Douglass,2020,5036,False,OCT,10,Fall,919
+Douglass,2020,5036,False,NOV,11,Fall,663
+Douglass,2020,5036,False,DEC,12,Winter,512
+Dunning,2020,54370,False,JAN,1,Winter,7328
+Dunning,2020,54370,False,FEB,2,Winter,7572
+Dunning,2020,54370,False,MAR,3,Spring,4237
+Dunning,2020,54370,False,APR,4,Spring,0
+Dunning,2020,54370,False,MAY,5,Spring,0
+Dunning,2020,54370,False,JUN,6,Summer,3678
+Dunning,2020,54370,False,JUL,7,Summer,4873
+Dunning,2020,54370,False,AUG,8,Summer,6846
+Dunning,2020,54370,False,SEP,9,Fall,6185
+Dunning,2020,54370,False,OCT,10,Fall,5341
+Dunning,2020,54370,False,NOV,11,Fall,4086
+Dunning,2020,54370,False,DEC,12,Winter,4224
+Edgebrook,2020,47557,False,JAN,1,Winter,7485
+Edgebrook,2020,47557,False,FEB,2,Winter,6533
+Edgebrook,2020,47557,False,MAR,3,Spring,4488
+Edgebrook,2020,47557,False,APR,4,Spring,0
+Edgebrook,2020,47557,False,MAY,5,Spring,0
+Edgebrook,2020,47557,False,JUN,6,Summer,3775
+Edgebrook,2020,47557,False,JUL,7,Summer,5091
+Edgebrook,2020,47557,False,AUG,8,Summer,4750
+Edgebrook,2020,47557,False,SEP,9,Fall,4749
+Edgebrook,2020,47557,False,OCT,10,Fall,4559
+Edgebrook,2020,47557,False,NOV,11,Fall,2329
+Edgebrook,2020,47557,False,DEC,12,Winter,3798
+Edgewater,2020,91450,False,JAN,1,Winter,15208
+Edgewater,2020,91450,False,FEB,2,Winter,13339
+Edgewater,2020,91450,False,MAR,3,Spring,16636
+Edgewater,2020,91450,False,APR,4,Spring,0
+Edgewater,2020,91450,False,MAY,5,Spring,0
+Edgewater,2020,91450,False,JUN,6,Summer,5031
+Edgewater,2020,91450,False,JUL,7,Summer,7816
+Edgewater,2020,91450,False,AUG,8,Summer,7342
+Edgewater,2020,91450,False,SEP,9,Fall,5542
+Edgewater,2020,91450,False,OCT,10,Fall,8189
+Edgewater,2020,91450,False,NOV,11,Fall,5950
+Edgewater,2020,91450,False,DEC,12,Winter,6397
+Gage Park,2020,5311,False,JAN,1,Winter,2058
+Gage Park,2020,5311,False,FEB,2,Winter,1942
+Gage Park,2020,5311,False,MAR,3,Spring,1311
+Gage Park,2020,5311,False,APR,4,Spring,0
+Gage Park,2020,5311,False,MAY,5,Spring,0
+Gage Park,2020,5311,False,JUN,6,Summer,0
+Gage Park,2020,5311,False,JUL,7,Summer,0
+Gage Park,2020,5311,False,AUG,8,Summer,0
+Gage Park,2020,5311,False,SEP,9,Fall,0
+Gage Park,2020,5311,False,OCT,10,Fall,0
+Gage Park,2020,5311,False,NOV,11,Fall,0
+Gage Park,2020,5311,False,DEC,12,Winter,0
+Galewood-Mont Clare,2020,3600,False,JAN,1,Winter,1591
+Galewood-Mont Clare,2020,3600,False,FEB,2,Winter,1375
+Galewood-Mont Clare,2020,3600,False,MAR,3,Spring,634
+Galewood-Mont Clare,2020,3600,False,APR,4,Spring,0
+Galewood-Mont Clare,2020,3600,False,MAY,5,Spring,0
+Galewood-Mont Clare,2020,3600,False,JUN,6,Summer,0
+Galewood-Mont Clare,2020,3600,False,JUL,7,Summer,0
+Galewood-Mont Clare,2020,3600,False,AUG,8,Summer,0
+Galewood-Mont Clare,2020,3600,False,SEP,9,Fall,0
+Galewood-Mont Clare,2020,3600,False,OCT,10,Fall,0
+Galewood-Mont Clare,2020,3600,False,NOV,11,Fall,0
+Galewood-Mont Clare,2020,3600,False,DEC,12,Winter,0
+Garfield Ridge,2020,32285,False,JAN,1,Winter,5282
+Garfield Ridge,2020,32285,False,FEB,2,Winter,4928
+Garfield Ridge,2020,32285,False,MAR,3,Spring,3215
+Garfield Ridge,2020,32285,False,APR,4,Spring,0
+Garfield Ridge,2020,32285,False,MAY,5,Spring,0
+Garfield Ridge,2020,32285,False,JUN,6,Summer,2448
+Garfield Ridge,2020,32285,False,JUL,7,Summer,2899
+Garfield Ridge,2020,32285,False,AUG,8,Summer,2941
+Garfield Ridge,2020,32285,False,SEP,9,Fall,2865
+Garfield Ridge,2020,32285,False,OCT,10,Fall,2957
+Garfield Ridge,2020,32285,False,NOV,11,Fall,2413
+Garfield Ridge,2020,32285,False,DEC,12,Winter,2337
+Greater Grand Crossing,2020,17535,False,JAN,1,Winter,4210
+Greater Grand Crossing,2020,17535,False,FEB,2,Winter,3399
+Greater Grand Crossing,2020,17535,False,MAR,3,Spring,2046
+Greater Grand Crossing,2020,17535,False,APR,4,Spring,0
+Greater Grand Crossing,2020,17535,False,MAY,5,Spring,0
+Greater Grand Crossing,2020,17535,False,JUN,6,Summer,673
+Greater Grand Crossing,2020,17535,False,JUL,7,Summer,1085
+Greater Grand Crossing,2020,17535,False,AUG,8,Summer,1150
+Greater Grand Crossing,2020,17535,False,SEP,9,Fall,1280
+Greater Grand Crossing,2020,17535,False,OCT,10,Fall,1521
+Greater Grand Crossing,2020,17535,False,NOV,11,Fall,1128
+Greater Grand Crossing,2020,17535,False,DEC,12,Winter,1043
+Hall,2020,30361,False,JAN,1,Winter,4885
+Hall,2020,30361,False,FEB,2,Winter,4729
+Hall,2020,30361,False,MAR,3,Spring,6570
+Hall,2020,30361,False,APR,4,Spring,0
+Hall,2020,30361,False,MAY,5,Spring,0
+Hall,2020,30361,False,JUN,6,Summer,2322
+Hall,2020,30361,False,JUL,7,Summer,2951
+Hall,2020,30361,False,AUG,8,Summer,2806
+Hall,2020,30361,False,SEP,9,Fall,2718
+Hall,2020,30361,False,OCT,10,Fall,2974
+Hall,2020,30361,False,NOV,11,Fall,406
+Hall,2020,30361,False,DEC,12,Winter,0
+Harold Washtington Library Center,2020,554374,False,JAN,1,Winter,104255
+Harold Washtington Library Center,2020,554374,False,FEB,2,Winter,102202
+Harold Washtington Library Center,2020,554374,False,MAR,3,Spring,75066
+Harold Washtington Library Center,2020,554374,False,APR,4,Spring,0
+Harold Washtington Library Center,2020,554374,False,MAY,5,Spring,0
+Harold Washtington Library Center,2020,554374,False,JUN,6,Summer,23673
+Harold Washtington Library Center,2020,554374,False,JUL,7,Summer,36325
+Harold Washtington Library Center,2020,554374,False,AUG,8,Summer,35144
+Harold Washtington Library Center,2020,554374,False,SEP,9,Fall,44570
+Harold Washtington Library Center,2020,554374,False,OCT,10,Fall,51962
+Harold Washtington Library Center,2020,554374,False,NOV,11,Fall,40119
+Harold Washtington Library Center,2020,554374,False,DEC,12,Winter,41058
+Hegewisch,2020,18922,False,JAN,1,Winter,3017
+Hegewisch,2020,18922,False,FEB,2,Winter,2785
+Hegewisch,2020,18922,False,MAR,3,Spring,2064
+Hegewisch,2020,18922,False,APR,4,Spring,0
+Hegewisch,2020,18922,False,MAY,5,Spring,0
+Hegewisch,2020,18922,False,JUN,6,Summer,1378
+Hegewisch,2020,18922,False,JUL,7,Summer,1832
+Hegewisch,2020,18922,False,AUG,8,Summer,1857
+Hegewisch,2020,18922,False,SEP,9,Fall,1698
+Hegewisch,2020,18922,False,OCT,10,Fall,1998
+Hegewisch,2020,18922,False,NOV,11,Fall,961
+Hegewisch,2020,18922,False,DEC,12,Winter,1332
+Humboldt Park,2020,37279,False,JAN,1,Winter,4846
+Humboldt Park,2020,37279,False,FEB,2,Winter,4760
+Humboldt Park,2020,37279,False,MAR,3,Spring,6954
+Humboldt Park,2020,37279,False,APR,4,Spring,0
+Humboldt Park,2020,37279,False,MAY,5,Spring,0
+Humboldt Park,2020,37279,False,JUN,6,Summer,947
+Humboldt Park,2020,37279,False,JUL,7,Summer,2441
+Humboldt Park,2020,37279,False,AUG,8,Summer,3156
+Humboldt Park,2020,37279,False,SEP,9,Fall,3432
+Humboldt Park,2020,37279,False,OCT,10,Fall,4809
+Humboldt Park,2020,37279,False,NOV,11,Fall,3148
+Humboldt Park,2020,37279,False,DEC,12,Winter,2786
+Independence,2020,29922,False,JAN,1,Winter,5491
+Independence,2020,29922,False,FEB,2,Winter,5189
+Independence,2020,29922,False,MAR,3,Spring,2275
+Independence,2020,29922,False,APR,4,Spring,0
+Independence,2020,29922,False,MAY,5,Spring,0
+Independence,2020,29922,False,JUN,6,Summer,1965
+Independence,2020,29922,False,JUL,7,Summer,2776
+Independence,2020,29922,False,AUG,8,Summer,2622
+Independence,2020,29922,False,SEP,9,Fall,2865
+Independence,2020,29922,False,OCT,10,Fall,2998
+Independence,2020,29922,False,NOV,11,Fall,2025
+Independence,2020,29922,False,DEC,12,Winter,1716
+Jefferson Park,2020,33343,False,JAN,1,Winter,5270
+Jefferson Park,2020,33343,False,FEB,2,Winter,4718
+Jefferson Park,2020,33343,False,MAR,3,Spring,2997
+Jefferson Park,2020,33343,False,APR,4,Spring,0
+Jefferson Park,2020,33343,False,MAY,5,Spring,0
+Jefferson Park,2020,33343,False,JUN,6,Summer,2835
+Jefferson Park,2020,33343,False,JUL,7,Summer,3551
+Jefferson Park,2020,33343,False,AUG,8,Summer,2569
+Jefferson Park,2020,33343,False,SEP,9,Fall,2661
+Jefferson Park,2020,33343,False,OCT,10,Fall,3458
+Jefferson Park,2020,33343,False,NOV,11,Fall,2832
+Jefferson Park,2020,33343,False,DEC,12,Winter,2452
+Jeffery Manor,2020,26048,False,JAN,1,Winter,3563
+Jeffery Manor,2020,26048,False,FEB,2,Winter,3191
+Jeffery Manor,2020,26048,False,MAR,3,Spring,2427
+Jeffery Manor,2020,26048,False,APR,4,Spring,0
+Jeffery Manor,2020,26048,False,MAY,5,Spring,0
+Jeffery Manor,2020,26048,False,JUN,6,Summer,2145
+Jeffery Manor,2020,26048,False,JUL,7,Summer,2561
+Jeffery Manor,2020,26048,False,AUG,8,Summer,2678
+Jeffery Manor,2020,26048,False,SEP,9,Fall,3099
+Jeffery Manor,2020,26048,False,OCT,10,Fall,2876
+Jeffery Manor,2020,26048,False,NOV,11,Fall,1811
+Jeffery Manor,2020,26048,False,DEC,12,Winter,1697
+Kelly,2020,18646,False,JAN,1,Winter,5448
+Kelly,2020,18646,False,FEB,2,Winter,5301
+Kelly,2020,18646,False,MAR,3,Spring,3274
+Kelly,2020,18646,False,APR,4,Spring,0
+Kelly,2020,18646,False,MAY,5,Spring,0
+Kelly,2020,18646,False,JUN,6,Summer,360
+Kelly,2020,18646,False,JUL,7,Summer,610
+Kelly,2020,18646,False,AUG,8,Summer,857
+Kelly,2020,18646,False,SEP,9,Fall,736
+Kelly,2020,18646,False,OCT,10,Fall,814
+Kelly,2020,18646,False,NOV,11,Fall,664
+Kelly,2020,18646,False,DEC,12,Winter,582
+King,2020,16902,False,JAN,1,Winter,2904
+King,2020,16902,False,FEB,2,Winter,3518
+King,2020,16902,False,MAR,3,Spring,1960
+King,2020,16902,False,APR,4,Spring,0
+King,2020,16902,False,MAY,5,Spring,0
+King,2020,16902,False,JUN,6,Summer,65
+King,2020,16902,False,JUL,7,Summer,1260
+King,2020,16902,False,AUG,8,Summer,1438
+King,2020,16902,False,SEP,9,Fall,1588
+King,2020,16902,False,OCT,10,Fall,1585
+King,2020,16902,False,NOV,11,Fall,1290
+King,2020,16902,False,DEC,12,Winter,1294
+Legler Regional,2020,108,False,JAN,1,Winter,0
+Legler Regional,2020,108,False,FEB,2,Winter,0
+Legler Regional,2020,108,False,MAR,3,Spring,0
+Legler Regional,2020,108,False,APR,4,Spring,0
+Legler Regional,2020,108,False,MAY,5,Spring,0
+Legler Regional,2020,108,False,JUN,6,Summer,0
+Legler Regional,2020,108,False,JUL,7,Summer,0
+Legler Regional,2020,108,False,AUG,8,Summer,0
+Legler Regional,2020,108,False,SEP,9,Fall,0
+Legler Regional,2020,108,False,OCT,10,Fall,0
+Legler Regional,2020,108,False,NOV,11,Fall,0
+Legler Regional,2020,108,False,DEC,12,Winter,108
+Lincoln Belmont,2020,57738,False,JAN,1,Winter,12707
+Lincoln Belmont,2020,57738,False,FEB,2,Winter,11844
+Lincoln Belmont,2020,57738,False,MAR,3,Spring,6818
+Lincoln Belmont,2020,57738,False,APR,4,Spring,0
+Lincoln Belmont,2020,57738,False,MAY,5,Spring,0
+Lincoln Belmont,2020,57738,False,JUN,6,Summer,4330
+Lincoln Belmont,2020,57738,False,JUL,7,Summer,5711
+Lincoln Belmont,2020,57738,False,AUG,8,Summer,4372
+Lincoln Belmont,2020,57738,False,SEP,9,Fall,3794
+Lincoln Belmont,2020,57738,False,OCT,10,Fall,2242
+Lincoln Belmont,2020,57738,False,NOV,11,Fall,3484
+Lincoln Belmont,2020,57738,False,DEC,12,Winter,2436
+Lincoln Park,2020,71740,False,JAN,1,Winter,11563
+Lincoln Park,2020,71740,False,FEB,2,Winter,11031
+Lincoln Park,2020,71740,False,MAR,3,Spring,13002
+Lincoln Park,2020,71740,False,APR,4,Spring,0
+Lincoln Park,2020,71740,False,MAY,5,Spring,0
+Lincoln Park,2020,71740,False,JUN,6,Summer,4139
+Lincoln Park,2020,71740,False,JUL,7,Summer,5547
+Lincoln Park,2020,71740,False,AUG,8,Summer,5466
+Lincoln Park,2020,71740,False,SEP,9,Fall,4993
+Lincoln Park,2020,71740,False,OCT,10,Fall,6030
+Lincoln Park,2020,71740,False,NOV,11,Fall,4960
+Lincoln Park,2020,71740,False,DEC,12,Winter,5009
+Little Italy,2020,40933,False,JAN,1,Winter,10850
+Little Italy,2020,40933,False,FEB,2,Winter,10504
+Little Italy,2020,40933,False,MAR,3,Spring,3401
+Little Italy,2020,40933,False,APR,4,Spring,0
+Little Italy,2020,40933,False,MAY,5,Spring,0
+Little Italy,2020,40933,False,JUN,6,Summer,2996
+Little Italy,2020,40933,False,JUL,7,Summer,3099
+Little Italy,2020,40933,False,AUG,8,Summer,2300
+Little Italy,2020,40933,False,SEP,9,Fall,2087
+Little Italy,2020,40933,False,OCT,10,Fall,1240
+Little Italy,2020,40933,False,NOV,11,Fall,2886
+Little Italy,2020,40933,False,DEC,12,Winter,1570
+Little Village,2020,23839,False,JAN,1,Winter,5288
+Little Village,2020,23839,False,FEB,2,Winter,4917
+Little Village,2020,23839,False,MAR,3,Spring,3508
+Little Village,2020,23839,False,APR,4,Spring,0
+Little Village,2020,23839,False,MAY,5,Spring,0
+Little Village,2020,23839,False,JUN,6,Summer,614
+Little Village,2020,23839,False,JUL,7,Summer,1443
+Little Village,2020,23839,False,AUG,8,Summer,1652
+Little Village,2020,23839,False,SEP,9,Fall,1762
+Little Village,2020,23839,False,OCT,10,Fall,1893
+Little Village,2020,23839,False,NOV,11,Fall,1430
+Little Village,2020,23839,False,DEC,12,Winter,1332
+Logan Square,2020,68589,False,JAN,1,Winter,12501
+Logan Square,2020,68589,False,FEB,2,Winter,11545
+Logan Square,2020,68589,False,MAR,3,Spring,6711
+Logan Square,2020,68589,False,APR,4,Spring,0
+Logan Square,2020,68589,False,MAY,5,Spring,0
+Logan Square,2020,68589,False,JUN,6,Summer,4243
+Logan Square,2020,68589,False,JUL,7,Summer,6795
+Logan Square,2020,68589,False,AUG,8,Summer,8731
+Logan Square,2020,68589,False,SEP,9,Fall,7027
+Logan Square,2020,68589,False,OCT,10,Fall,0
+Logan Square,2020,68589,False,NOV,11,Fall,4890
+Logan Square,2020,68589,False,DEC,12,Winter,6146
+Lozano,2020,47770,False,JAN,1,Winter,10498
+Lozano,2020,47770,False,FEB,2,Winter,9411
+Lozano,2020,47770,False,MAR,3,Spring,6806
+Lozano,2020,47770,False,APR,4,Spring,0
+Lozano,2020,47770,False,MAY,5,Spring,0
+Lozano,2020,47770,False,JUN,6,Summer,1945
+Lozano,2020,47770,False,JUL,7,Summer,3316
+Lozano,2020,47770,False,AUG,8,Summer,3001
+Lozano,2020,47770,False,SEP,9,Fall,3204
+Lozano,2020,47770,False,OCT,10,Fall,4051
+Lozano,2020,47770,False,NOV,11,Fall,3390
+Lozano,2020,47770,False,DEC,12,Winter,2148
+Manning,2020,13844,False,JAN,1,Winter,7161
+Manning,2020,13844,False,FEB,2,Winter,6683
+Manning,2020,13844,False,MAR,3,Spring,0
+Manning,2020,13844,False,APR,4,Spring,0
+Manning,2020,13844,False,MAY,5,Spring,0
+Manning,2020,13844,False,JUN,6,Summer,0
+Manning,2020,13844,False,JUL,7,Summer,0
+Manning,2020,13844,False,AUG,8,Summer,0
+Manning,2020,13844,False,SEP,9,Fall,0
+Manning,2020,13844,False,OCT,10,Fall,0
+Manning,2020,13844,False,NOV,11,Fall,0
+Manning,2020,13844,False,DEC,12,Winter,0
+Mayfair,2020,18955,False,JAN,1,Winter,3412
+Mayfair,2020,18955,False,FEB,2,Winter,2898
+Mayfair,2020,18955,False,MAR,3,Spring,2123
+Mayfair,2020,18955,False,APR,4,Spring,0
+Mayfair,2020,18955,False,MAY,5,Spring,0
+Mayfair,2020,18955,False,JUN,6,Summer,696
+Mayfair,2020,18955,False,JUL,7,Summer,1393
+Mayfair,2020,18955,False,AUG,8,Summer,1833
+Mayfair,2020,18955,False,SEP,9,Fall,1751
+Mayfair,2020,18955,False,OCT,10,Fall,1971
+Mayfair,2020,18955,False,NOV,11,Fall,1530
+Mayfair,2020,18955,False,DEC,12,Winter,1348
+McKinley Park,2020,38764,False,JAN,1,Winter,6531
+McKinley Park,2020,38764,False,FEB,2,Winter,5301
+McKinley Park,2020,38764,False,MAR,3,Spring,3513
+McKinley Park,2020,38764,False,APR,4,Spring,0
+McKinley Park,2020,38764,False,MAY,5,Spring,0
+McKinley Park,2020,38764,False,JUN,6,Summer,3604
+McKinley Park,2020,38764,False,JUL,7,Summer,4401
+McKinley Park,2020,38764,False,AUG,8,Summer,4118
+McKinley Park,2020,38764,False,SEP,9,Fall,4015
+McKinley Park,2020,38764,False,OCT,10,Fall,3820
+McKinley Park,2020,38764,False,NOV,11,Fall,2851
+McKinley Park,2020,38764,False,DEC,12,Winter,610
+Merlo,2020,0,False,JAN,1,Winter,0
+Merlo,2020,0,False,FEB,2,Winter,0
+Merlo,2020,0,False,MAR,3,Spring,0
+Merlo,2020,0,False,APR,4,Spring,0
+Merlo,2020,0,False,MAY,5,Spring,0
+Merlo,2020,0,False,JUN,6,Summer,0
+Merlo,2020,0,False,JUL,7,Summer,0
+Merlo,2020,0,False,AUG,8,Summer,0
+Merlo,2020,0,False,SEP,9,Fall,0
+Merlo,2020,0,False,OCT,10,Fall,0
+Merlo,2020,0,False,NOV,11,Fall,0
+Merlo,2020,0,False,DEC,12,Winter,0
+Mount Greenwood,2020,17208,False,JAN,1,Winter,3582
+Mount Greenwood,2020,17208,False,FEB,2,Winter,2222
+Mount Greenwood,2020,17208,False,MAR,3,Spring,1233
+Mount Greenwood,2020,17208,False,APR,4,Spring,0
+Mount Greenwood,2020,17208,False,MAY,5,Spring,0
+Mount Greenwood,2020,17208,False,JUN,6,Summer,1267
+Mount Greenwood,2020,17208,False,JUL,7,Summer,1468
+Mount Greenwood,2020,17208,False,AUG,8,Summer,1437
+Mount Greenwood,2020,17208,False,SEP,9,Fall,1387
+Mount Greenwood,2020,17208,False,OCT,10,Fall,1709
+Mount Greenwood,2020,17208,False,NOV,11,Fall,1448
+Mount Greenwood,2020,17208,False,DEC,12,Winter,1455
+Near North,2020,65148,False,JAN,1,Winter,10765
+Near North,2020,65148,False,FEB,2,Winter,9489
+Near North,2020,65148,False,MAR,3,Spring,6197
+Near North,2020,65148,False,APR,4,Spring,0
+Near North,2020,65148,False,MAY,5,Spring,0
+Near North,2020,65148,False,JUN,6,Summer,4539
+Near North,2020,65148,False,JUL,7,Summer,6207
+Near North,2020,65148,False,AUG,8,Summer,6005
+Near North,2020,65148,False,SEP,9,Fall,6181
+Near North,2020,65148,False,OCT,10,Fall,6109
+Near North,2020,65148,False,NOV,11,Fall,4796
+Near North,2020,65148,False,DEC,12,Winter,4860
+North Austin,2020,17907,False,JAN,1,Winter,3864
+North Austin,2020,17907,False,FEB,2,Winter,3893
+North Austin,2020,17907,False,MAR,3,Spring,1597
+North Austin,2020,17907,False,APR,4,Spring,0
+North Austin,2020,17907,False,MAY,5,Spring,0
+North Austin,2020,17907,False,JUN,6,Summer,594
+North Austin,2020,17907,False,JUL,7,Summer,1260
+North Austin,2020,17907,False,AUG,8,Summer,1528
+North Austin,2020,17907,False,SEP,9,Fall,1448
+North Austin,2020,17907,False,OCT,10,Fall,1403
+North Austin,2020,17907,False,NOV,11,Fall,1192
+North Austin,2020,17907,False,DEC,12,Winter,1128
+North Pulaski,2020,19762,False,JAN,1,Winter,3209
+North Pulaski,2020,19762,False,FEB,2,Winter,2994
+North Pulaski,2020,19762,False,MAR,3,Spring,2029
+North Pulaski,2020,19762,False,APR,4,Spring,0
+North Pulaski,2020,19762,False,MAY,5,Spring,0
+North Pulaski,2020,19762,False,JUN,6,Summer,444
+North Pulaski,2020,19762,False,JUL,7,Summer,1013
+North Pulaski,2020,19762,False,AUG,8,Summer,2274
+North Pulaski,2020,19762,False,SEP,9,Fall,2178
+North Pulaski,2020,19762,False,OCT,10,Fall,2259
+North Pulaski,2020,19762,False,NOV,11,Fall,1795
+North Pulaski,2020,19762,False,DEC,12,Winter,1567
+Northtown,2020,74062,False,JAN,1,Winter,0
+Northtown,2020,74062,False,FEB,2,Winter,13474
+Northtown,2020,74062,False,MAR,3,Spring,7864
+Northtown,2020,74062,False,APR,4,Spring,0
+Northtown,2020,74062,False,MAY,5,Spring,0
+Northtown,2020,74062,False,JUN,6,Summer,5612
+Northtown,2020,74062,False,JUL,7,Summer,9002
+Northtown,2020,74062,False,AUG,8,Summer,9342
+Northtown,2020,74062,False,SEP,9,Fall,9046
+Northtown,2020,74062,False,OCT,10,Fall,7657
+Northtown,2020,74062,False,NOV,11,Fall,5881
+Northtown,2020,74062,False,DEC,12,Winter,6184
+Oriole Park,2020,38614,False,JAN,1,Winter,7781
+Oriole Park,2020,38614,False,FEB,2,Winter,6343
+Oriole Park,2020,38614,False,MAR,3,Spring,3920
+Oriole Park,2020,38614,False,APR,4,Spring,0
+Oriole Park,2020,38614,False,MAY,5,Spring,0
+Oriole Park,2020,38614,False,JUN,6,Summer,1616
+Oriole Park,2020,38614,False,JUL,7,Summer,2382
+Oriole Park,2020,38614,False,AUG,8,Summer,2927
+Oriole Park,2020,38614,False,SEP,9,Fall,3467
+Oriole Park,2020,38614,False,OCT,10,Fall,3263
+Oriole Park,2020,38614,False,NOV,11,Fall,3626
+Oriole Park,2020,38614,False,DEC,12,Winter,3289
+Portage-Cragin,2020,35107,False,JAN,1,Winter,5365
+Portage-Cragin,2020,35107,False,FEB,2,Winter,5073
+Portage-Cragin,2020,35107,False,MAR,3,Spring,6851
+Portage-Cragin,2020,35107,False,APR,4,Spring,0
+Portage-Cragin,2020,35107,False,MAY,5,Spring,0
+Portage-Cragin,2020,35107,False,JUN,6,Summer,1662
+Portage-Cragin,2020,35107,False,JUL,7,Summer,2497
+Portage-Cragin,2020,35107,False,AUG,8,Summer,3058
+Portage-Cragin,2020,35107,False,SEP,9,Fall,3013
+Portage-Cragin,2020,35107,False,OCT,10,Fall,3049
+Portage-Cragin,2020,35107,False,NOV,11,Fall,2182
+Portage-Cragin,2020,35107,False,DEC,12,Winter,2357
+Pullman,2020,17149,False,JAN,1,Winter,3775
+Pullman,2020,17149,False,FEB,2,Winter,3410
+Pullman,2020,17149,False,MAR,3,Spring,2215
+Pullman,2020,17149,False,APR,4,Spring,0
+Pullman,2020,17149,False,MAY,5,Spring,0
+Pullman,2020,17149,False,JUN,6,Summer,725
+Pullman,2020,17149,False,JUL,7,Summer,2492
+Pullman,2020,17149,False,AUG,8,Summer,1654
+Pullman,2020,17149,False,SEP,9,Fall,0
+Pullman,2020,17149,False,OCT,10,Fall,0
+Pullman,2020,17149,False,NOV,11,Fall,1149
+Pullman,2020,17149,False,DEC,12,Winter,1729
+Roden,2020,27951,False,JAN,1,Winter,736
+Roden,2020,27951,False,FEB,2,Winter,3742
+Roden,2020,27951,False,MAR,3,Spring,5078
+Roden,2020,27951,False,APR,4,Spring,0
+Roden,2020,27951,False,MAY,5,Spring,0
+Roden,2020,27951,False,JUN,6,Summer,2337
+Roden,2020,27951,False,JUL,7,Summer,3306
+Roden,2020,27951,False,AUG,8,Summer,1621
+Roden,2020,27951,False,SEP,9,Fall,2654
+Roden,2020,27951,False,OCT,10,Fall,3238
+Roden,2020,27951,False,NOV,11,Fall,2448
+Roden,2020,27951,False,DEC,12,Winter,2791
+Rogers Park,2020,75717,False,JAN,1,Winter,11997
+Rogers Park,2020,75717,False,FEB,2,Winter,11407
+Rogers Park,2020,75717,False,MAR,3,Spring,6878
+Rogers Park,2020,75717,False,APR,4,Spring,0
+Rogers Park,2020,75717,False,MAY,5,Spring,0
+Rogers Park,2020,75717,False,JUN,6,Summer,4655
+Rogers Park,2020,75717,False,JUL,7,Summer,7428
+Rogers Park,2020,75717,False,AUG,8,Summer,7724
+Rogers Park,2020,75717,False,SEP,9,Fall,9067
+Rogers Park,2020,75717,False,OCT,10,Fall,8118
+Rogers Park,2020,75717,False,NOV,11,Fall,3129
+Rogers Park,2020,75717,False,DEC,12,Winter,5314
+Scottsdale,2020,24400,False,JAN,1,Winter,3190
+Scottsdale,2020,24400,False,FEB,2,Winter,3210
+Scottsdale,2020,24400,False,MAR,3,Spring,2501
+Scottsdale,2020,24400,False,APR,4,Spring,0
+Scottsdale,2020,24400,False,MAY,5,Spring,0
+Scottsdale,2020,24400,False,JUN,6,Summer,1742
+Scottsdale,2020,24400,False,JUL,7,Summer,2531
+Scottsdale,2020,24400,False,AUG,8,Summer,2536
+Scottsdale,2020,24400,False,SEP,9,Fall,2210
+Scottsdale,2020,24400,False,OCT,10,Fall,2710
+Scottsdale,2020,24400,False,NOV,11,Fall,1835
+Scottsdale,2020,24400,False,DEC,12,Winter,1935
+Sherman Park,2020,18207,False,JAN,1,Winter,2698
+Sherman Park,2020,18207,False,FEB,2,Winter,2403
+Sherman Park,2020,18207,False,MAR,3,Spring,1780
+Sherman Park,2020,18207,False,APR,4,Spring,0
+Sherman Park,2020,18207,False,MAY,5,Spring,0
+Sherman Park,2020,18207,False,JUN,6,Summer,1290
+Sherman Park,2020,18207,False,JUL,7,Summer,2118
+Sherman Park,2020,18207,False,AUG,8,Summer,2380
+Sherman Park,2020,18207,False,SEP,9,Fall,1611
+Sherman Park,2020,18207,False,OCT,10,Fall,755
+Sherman Park,2020,18207,False,NOV,11,Fall,1560
+Sherman Park,2020,18207,False,DEC,12,Winter,1612
+South Chicago,2020,32499,False,JAN,1,Winter,6489
+South Chicago,2020,32499,False,FEB,2,Winter,6023
+South Chicago,2020,32499,False,MAR,3,Spring,3457
+South Chicago,2020,32499,False,APR,4,Spring,0
+South Chicago,2020,32499,False,MAY,5,Spring,0
+South Chicago,2020,32499,False,JUN,6,Summer,2055
+South Chicago,2020,32499,False,JUL,7,Summer,2827
+South Chicago,2020,32499,False,AUG,8,Summer,3213
+South Chicago,2020,32499,False,SEP,9,Fall,3161
+South Chicago,2020,32499,False,OCT,10,Fall,3210
+South Chicago,2020,32499,False,NOV,11,Fall,2064
+South Chicago,2020,32499,False,DEC,12,Winter,0
+South Shore,2020,5115,False,JAN,1,Winter,0
+South Shore,2020,5115,False,FEB,2,Winter,0
+South Shore,2020,5115,False,MAR,3,Spring,0
+South Shore,2020,5115,False,APR,4,Spring,0
+South Shore,2020,5115,False,MAY,5,Spring,0
+South Shore,2020,5115,False,JUN,6,Summer,0
+South Shore,2020,5115,False,JUL,7,Summer,389
+South Shore,2020,5115,False,AUG,8,Summer,1086
+South Shore,2020,5115,False,SEP,9,Fall,1097
+South Shore,2020,5115,False,OCT,10,Fall,1262
+South Shore,2020,5115,False,NOV,11,Fall,894
+South Shore,2020,5115,False,DEC,12,Winter,387
+Sulzer Regional Library,2020,165519,False,JAN,1,Winter,29483
+Sulzer Regional Library,2020,165519,False,FEB,2,Winter,27624
+Sulzer Regional Library,2020,165519,False,MAR,3,Spring,14313
+Sulzer Regional Library,2020,165519,False,APR,4,Spring,0
+Sulzer Regional Library,2020,165519,False,MAY,5,Spring,0
+Sulzer Regional Library,2020,165519,False,JUN,6,Summer,9709
+Sulzer Regional Library,2020,165519,False,JUL,7,Summer,14281
+Sulzer Regional Library,2020,165519,False,AUG,8,Summer,14330
+Sulzer Regional Library,2020,165519,False,SEP,9,Fall,14172
+Sulzer Regional Library,2020,165519,False,OCT,10,Fall,15367
+Sulzer Regional Library,2020,165519,False,NOV,11,Fall,12640
+Sulzer Regional Library,2020,165519,False,DEC,12,Winter,13600
+Thurgood Marshall,2020,36007,False,JAN,1,Winter,6199
+Thurgood Marshall,2020,36007,False,FEB,2,Winter,7924
+Thurgood Marshall,2020,36007,False,MAR,3,Spring,4089
+Thurgood Marshall,2020,36007,False,APR,4,Spring,0
+Thurgood Marshall,2020,36007,False,MAY,5,Spring,0
+Thurgood Marshall,2020,36007,False,JUN,6,Summer,1579
+Thurgood Marshall,2020,36007,False,JUL,7,Summer,2345
+Thurgood Marshall,2020,36007,False,AUG,8,Summer,3327
+Thurgood Marshall,2020,36007,False,SEP,9,Fall,3186
+Thurgood Marshall,2020,36007,False,OCT,10,Fall,3231
+Thurgood Marshall,2020,36007,False,NOV,11,Fall,2072
+Thurgood Marshall,2020,36007,False,DEC,12,Winter,2055
+Toman,2020,23757,False,JAN,1,Winter,4196
+Toman,2020,23757,False,FEB,2,Winter,4295
+Toman,2020,23757,False,MAR,3,Spring,3589
+Toman,2020,23757,False,APR,4,Spring,0
+Toman,2020,23757,False,MAY,5,Spring,0
+Toman,2020,23757,False,JUN,6,Summer,1121
+Toman,2020,23757,False,JUL,7,Summer,2017
+Toman,2020,23757,False,AUG,8,Summer,1956
+Toman,2020,23757,False,SEP,9,Fall,1780
+Toman,2020,23757,False,OCT,10,Fall,2010
+Toman,2020,23757,False,NOV,11,Fall,1526
+Toman,2020,23757,False,DEC,12,Winter,1267
+Uptown,2020,57536,False,JAN,1,Winter,10289
+Uptown,2020,57536,False,FEB,2,Winter,10115
+Uptown,2020,57536,False,MAR,3,Spring,6286
+Uptown,2020,57536,False,APR,4,Spring,0
+Uptown,2020,57536,False,MAY,5,Spring,0
+Uptown,2020,57536,False,JUN,6,Summer,3292
+Uptown,2020,57536,False,JUL,7,Summer,4855
+Uptown,2020,57536,False,AUG,8,Summer,4682
+Uptown,2020,57536,False,SEP,9,Fall,4650
+Uptown,2020,57536,False,OCT,10,Fall,5061
+Uptown,2020,57536,False,NOV,11,Fall,3941
+Uptown,2020,57536,False,DEC,12,Winter,4365
+Vodak-East Side,2020,24651,False,JAN,1,Winter,1319
+Vodak-East Side,2020,24651,False,FEB,2,Winter,4556
+Vodak-East Side,2020,24651,False,MAR,3,Spring,3103
+Vodak-East Side,2020,24651,False,APR,4,Spring,0
+Vodak-East Side,2020,24651,False,MAY,5,Spring,0
+Vodak-East Side,2020,24651,False,JUN,6,Summer,2814
+Vodak-East Side,2020,24651,False,JUL,7,Summer,2295
+Vodak-East Side,2020,24651,False,AUG,8,Summer,2861
+Vodak-East Side,2020,24651,False,SEP,9,Fall,1889
+Vodak-East Side,2020,24651,False,OCT,10,Fall,1849
+Vodak-East Side,2020,24651,False,NOV,11,Fall,1912
+Vodak-East Side,2020,24651,False,DEC,12,Winter,2053
+Walker,2020,2606,False,JAN,1,Winter,0
+Walker,2020,2606,False,FEB,2,Winter,0
+Walker,2020,2606,False,MAR,3,Spring,0
+Walker,2020,2606,False,APR,4,Spring,0
+Walker,2020,2606,False,MAY,5,Spring,0
+Walker,2020,2606,False,JUN,6,Summer,0
+Walker,2020,2606,False,JUL,7,Summer,147
+Walker,2020,2606,False,AUG,8,Summer,547
+Walker,2020,2606,False,SEP,9,Fall,480
+Walker,2020,2606,False,OCT,10,Fall,765
+Walker,2020,2606,False,NOV,11,Fall,263
+Walker,2020,2606,False,DEC,12,Winter,404
+West Belmont,2020,30729,False,JAN,1,Winter,3816
+West Belmont,2020,30729,False,FEB,2,Winter,4175
+West Belmont,2020,30729,False,MAR,3,Spring,7177
+West Belmont,2020,30729,False,APR,4,Spring,0
+West Belmont,2020,30729,False,MAY,5,Spring,0
+West Belmont,2020,30729,False,JUN,6,Summer,1076
+West Belmont,2020,30729,False,JUL,7,Summer,2310
+West Belmont,2020,30729,False,AUG,8,Summer,2471
+West Belmont,2020,30729,False,SEP,9,Fall,2451
+West Belmont,2020,30729,False,OCT,10,Fall,3088
+West Belmont,2020,30729,False,NOV,11,Fall,2186
+West Belmont,2020,30729,False,DEC,12,Winter,1979
+West Chicago Avenue,2020,22337,False,JAN,1,Winter,7252
+West Chicago Avenue,2020,22337,False,FEB,2,Winter,5970
+West Chicago Avenue,2020,22337,False,MAR,3,Spring,3967
+West Chicago Avenue,2020,22337,False,APR,4,Spring,0
+West Chicago Avenue,2020,22337,False,MAY,5,Spring,0
+West Chicago Avenue,2020,22337,False,JUN,6,Summer,542
+West Chicago Avenue,2020,22337,False,JUL,7,Summer,832
+West Chicago Avenue,2020,22337,False,AUG,8,Summer,873
+West Chicago Avenue,2020,22337,False,SEP,9,Fall,851
+West Chicago Avenue,2020,22337,False,OCT,10,Fall,835
+West Chicago Avenue,2020,22337,False,NOV,11,Fall,620
+West Chicago Avenue,2020,22337,False,DEC,12,Winter,595
+West Englewood,2020,28176,False,JAN,1,Winter,5207
+West Englewood,2020,28176,False,FEB,2,Winter,4909
+West Englewood,2020,28176,False,MAR,3,Spring,3212
+West Englewood,2020,28176,False,APR,4,Spring,0
+West Englewood,2020,28176,False,MAY,5,Spring,0
+West Englewood,2020,28176,False,JUN,6,Summer,1557
+West Englewood,2020,28176,False,JUL,7,Summer,2192
+West Englewood,2020,28176,False,AUG,8,Summer,2483
+West Englewood,2020,28176,False,SEP,9,Fall,2437
+West Englewood,2020,28176,False,OCT,10,Fall,2533
+West Englewood,2020,28176,False,NOV,11,Fall,1836
+West Englewood,2020,28176,False,DEC,12,Winter,1810
+West Lawn,2020,20569,False,JAN,1,Winter,4880
+West Lawn,2020,20569,False,FEB,2,Winter,4682
+West Lawn,2020,20569,False,MAR,3,Spring,3255
+West Lawn,2020,20569,False,APR,4,Spring,0
+West Lawn,2020,20569,False,MAY,5,Spring,0
+West Lawn,2020,20569,False,JUN,6,Summer,538
+West Lawn,2020,20569,False,JUL,7,Summer,891
+West Lawn,2020,20569,False,AUG,8,Summer,1288
+West Lawn,2020,20569,False,SEP,9,Fall,1391
+West Lawn,2020,20569,False,OCT,10,Fall,1548
+West Lawn,2020,20569,False,NOV,11,Fall,1055
+West Lawn,2020,20569,False,DEC,12,Winter,1041
+West Loop,2020,37867,False,JAN,1,Winter,7440
+West Loop,2020,37867,False,FEB,2,Winter,6686
+West Loop,2020,37867,False,MAR,3,Spring,3575
+West Loop,2020,37867,False,APR,4,Spring,0
+West Loop,2020,37867,False,MAY,5,Spring,0
+West Loop,2020,37867,False,JUN,6,Summer,2387
+West Loop,2020,37867,False,JUL,7,Summer,3372
+West Loop,2020,37867,False,AUG,8,Summer,3462
+West Loop,2020,37867,False,SEP,9,Fall,2902
+West Loop,2020,37867,False,OCT,10,Fall,3051
+West Loop,2020,37867,False,NOV,11,Fall,2424
+West Loop,2020,37867,False,DEC,12,Winter,2568
+West Pullman,2020,33261,False,JAN,1,Winter,8338
+West Pullman,2020,33261,False,FEB,2,Winter,7884
+West Pullman,2020,33261,False,MAR,3,Spring,7611
+West Pullman,2020,33261,False,APR,4,Spring,0
+West Pullman,2020,33261,False,MAY,5,Spring,0
+West Pullman,2020,33261,False,JUN,6,Summer,649
+West Pullman,2020,33261,False,JUL,7,Summer,1267
+West Pullman,2020,33261,False,AUG,8,Summer,1529
+West Pullman,2020,33261,False,SEP,9,Fall,1673
+West Pullman,2020,33261,False,OCT,10,Fall,1966
+West Pullman,2020,33261,False,NOV,11,Fall,1184
+West Pullman,2020,33261,False,DEC,12,Winter,1160
+West Town,2020,50554,False,JAN,1,Winter,9179
+West Town,2020,50554,False,FEB,2,Winter,8264
+West Town,2020,50554,False,MAR,3,Spring,5392
+West Town,2020,50554,False,APR,4,Spring,0
+West Town,2020,50554,False,MAY,5,Spring,0
+West Town,2020,50554,False,JUN,6,Summer,3076
+West Town,2020,50554,False,JUL,7,Summer,3349
+West Town,2020,50554,False,AUG,8,Summer,1767
+West Town,2020,50554,False,SEP,9,Fall,5587
+West Town,2020,50554,False,OCT,10,Fall,6650
+West Town,2020,50554,False,NOV,11,Fall,4183
+West Town,2020,50554,False,DEC,12,Winter,3107
+"Whitney M. Young, Jr.",2020,38131,False,JAN,1,Winter,8004
+"Whitney M. Young, Jr.",2020,38131,False,FEB,2,Winter,7119
+"Whitney M. Young, Jr.",2020,38131,False,MAR,3,Spring,10619
+"Whitney M. Young, Jr.",2020,38131,False,APR,4,Spring,0
+"Whitney M. Young, Jr.",2020,38131,False,MAY,5,Spring,0
+"Whitney M. Young, Jr.",2020,38131,False,JUN,6,Summer,1010
+"Whitney M. Young, Jr.",2020,38131,False,JUL,7,Summer,1639
+"Whitney M. Young, Jr.",2020,38131,False,AUG,8,Summer,2376
+"Whitney M. Young, Jr.",2020,38131,False,SEP,9,Fall,2541
+"Whitney M. Young, Jr.",2020,38131,False,OCT,10,Fall,1505
+"Whitney M. Young, Jr.",2020,38131,False,NOV,11,Fall,1988
+"Whitney M. Young, Jr.",2020,38131,False,DEC,12,Winter,1330
+Woodson Regional Library,2020,78366,False,JAN,1,Winter,16492
+Woodson Regional Library,2020,78366,False,FEB,2,Winter,16461
+Woodson Regional Library,2020,78366,False,MAR,3,Spring,14015
+Woodson Regional Library,2020,78366,False,APR,4,Spring,0
+Woodson Regional Library,2020,78366,False,MAY,5,Spring,0
+Woodson Regional Library,2020,78366,False,JUN,6,Summer,2238
+Woodson Regional Library,2020,78366,False,JUL,7,Summer,4817
+Woodson Regional Library,2020,78366,False,AUG,8,Summer,5088
+Woodson Regional Library,2020,78366,False,SEP,9,Fall,5260
+Woodson Regional Library,2020,78366,False,OCT,10,Fall,5900
+Woodson Regional Library,2020,78366,False,NOV,11,Fall,4322
+Woodson Regional Library,2020,78366,False,DEC,12,Winter,3773
+Wrightwood-Ashburn,2020,21338,False,JAN,1,Winter,3849
+Wrightwood-Ashburn,2020,21338,False,FEB,2,Winter,3526
+Wrightwood-Ashburn,2020,21338,False,MAR,3,Spring,2341
+Wrightwood-Ashburn,2020,21338,False,APR,4,Spring,0
+Wrightwood-Ashburn,2020,21338,False,MAY,5,Spring,0
+Wrightwood-Ashburn,2020,21338,False,JUN,6,Summer,1371
+Wrightwood-Ashburn,2020,21338,False,JUL,7,Summer,1881
+Wrightwood-Ashburn,2020,21338,False,AUG,8,Summer,2190
+Wrightwood-Ashburn,2020,21338,False,SEP,9,Fall,1830
+Wrightwood-Ashburn,2020,21338,False,OCT,10,Fall,1750
+Wrightwood-Ashburn,2020,21338,False,NOV,11,Fall,1245
+Wrightwood-Ashburn,2020,21338,False,DEC,12,Winter,1355

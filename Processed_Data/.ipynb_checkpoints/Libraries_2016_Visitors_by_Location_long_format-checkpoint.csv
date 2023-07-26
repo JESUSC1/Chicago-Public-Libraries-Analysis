@@ -1,0 +1,961 @@
+NAME,YEAR,TOTAL_VISITORS_YEAR,Problem_With_Counter,MONTH,MONTH_NUMBER,VISITOR_COUNT
+Albany Park  ,2016,159397,False,JAN,1,11735
+Albany Park  ,2016,159397,False,FEB,2,10593
+Albany Park  ,2016,159397,False,MAR,3,12368
+Albany Park  ,2016,159397,False,APR,4,12556
+Albany Park  ,2016,159397,False,MAY,5,10915
+Albany Park  ,2016,159397,False,JUN,6,15341
+Albany Park  ,2016,159397,False,JUL,7,14151
+Albany Park  ,2016,159397,False,AUG,8,13907
+Albany Park  ,2016,159397,False,SEP,9,14119
+Albany Park  ,2016,159397,False,OCT,10,16460
+Albany Park  ,2016,159397,False,NOV,11,14463
+Albany Park  ,2016,159397,False,DEC,12,12789
+Altgeld  ,2016,57479,False,JAN,1,5335
+Altgeld  ,2016,57479,False,FEB,2,5034
+Altgeld  ,2016,57479,False,MAR,3,4529
+Altgeld  ,2016,57479,False,APR,4,4471
+Altgeld  ,2016,57479,False,MAY,5,3880
+Altgeld  ,2016,57479,False,JUN,6,4431
+Altgeld  ,2016,57479,False,JUL,7,5526
+Altgeld  ,2016,57479,False,AUG,8,5867
+Altgeld  ,2016,57479,False,SEP,9,5433
+Altgeld  ,2016,57479,False,OCT,10,5064
+Altgeld  ,2016,57479,False,NOV,11,4584
+Altgeld  ,2016,57479,False,DEC,12,3325
+Archer Heights,2016,107323,True,JAN,1,8375
+Archer Heights,2016,107323,True,FEB,2,9079
+Archer Heights,2016,107323,True,MAR,3,10522
+Archer Heights,2016,107323,True,APR,4,9747
+Archer Heights,2016,107323,True,MAY,5,8714
+Archer Heights,2016,107323,True,JUN,6,9567
+Archer Heights,2016,107323,True,JUL,7,9514
+Archer Heights,2016,107323,True,AUG,8,8831
+Archer Heights,2016,107323,True,SEP,9,8611
+Archer Heights,2016,107323,True,OCT,10,9209
+Archer Heights,2016,107323,True,NOV,11,8400
+Archer Heights,2016,107323,True,DEC,12,6754
+Austin ,2016,81643,False,JAN,1,5849
+Austin ,2016,81643,False,FEB,2,5190
+Austin ,2016,81643,False,MAR,3,5691
+Austin ,2016,81643,False,APR,4,6313
+Austin ,2016,81643,False,MAY,5,6092
+Austin ,2016,81643,False,JUN,6,7489
+Austin ,2016,81643,False,JUL,7,9012
+Austin ,2016,81643,False,AUG,8,8202
+Austin ,2016,81643,False,SEP,9,7521
+Austin ,2016,81643,False,OCT,10,7257
+Austin ,2016,81643,False,NOV,11,6395
+Austin ,2016,81643,False,DEC,12,6632
+Austin-Irving  ,2016,114892,False,JAN,1,8726
+Austin-Irving  ,2016,114892,False,FEB,2,9201
+Austin-Irving  ,2016,114892,False,MAR,3,10017
+Austin-Irving  ,2016,114892,False,APR,4,10010
+Austin-Irving  ,2016,114892,False,MAY,5,8346
+Austin-Irving  ,2016,114892,False,JUN,6,9571
+Austin-Irving  ,2016,114892,False,JUL,7,9567
+Austin-Irving  ,2016,114892,False,AUG,8,9386
+Austin-Irving  ,2016,114892,False,SEP,9,9110
+Austin-Irving  ,2016,114892,False,OCT,10,10505
+Austin-Irving  ,2016,114892,False,NOV,11,10540
+Austin-Irving  ,2016,114892,False,DEC,12,9913
+Avalon,2016,113351,True,JAN,1,8835
+Avalon,2016,113351,True,FEB,2,8984
+Avalon,2016,113351,True,MAR,3,8993
+Avalon,2016,113351,True,APR,4,9729
+Avalon,2016,113351,True,MAY,5,9201
+Avalon,2016,113351,True,JUN,6,9755
+Avalon,2016,113351,True,JUL,7,10089
+Avalon,2016,113351,True,AUG,8,9860
+Avalon,2016,113351,True,SEP,9,9053
+Avalon,2016,113351,True,OCT,10,9772
+Avalon,2016,113351,True,NOV,11,10110
+Avalon,2016,113351,True,DEC,12,8970
+Back of the Yards,2016,65749,False,JAN,1,4871
+Back of the Yards,2016,65749,False,FEB,2,5896
+Back of the Yards,2016,65749,False,MAR,3,5552
+Back of the Yards,2016,65749,False,APR,4,6453
+Back of the Yards,2016,65749,False,MAY,5,5713
+Back of the Yards,2016,65749,False,JUN,6,5487
+Back of the Yards,2016,65749,False,JUL,7,5694
+Back of the Yards,2016,65749,False,AUG,8,6857
+Back of the Yards,2016,65749,False,SEP,9,5719
+Back of the Yards,2016,65749,False,OCT,10,5223
+Back of the Yards,2016,65749,False,NOV,11,4421
+Back of the Yards,2016,65749,False,DEC,12,3863
+Beverly,2016,99236,True,JAN,1,6813
+Beverly,2016,99236,True,FEB,2,7666
+Beverly,2016,99236,True,MAR,3,7943
+Beverly,2016,99236,True,APR,4,7639
+Beverly,2016,99236,True,MAY,5,7568
+Beverly,2016,99236,True,JUN,6,7814
+Beverly,2016,99236,True,JUL,7,9243
+Beverly,2016,99236,True,AUG,8,8953
+Beverly,2016,99236,True,SEP,9,7615
+Beverly,2016,99236,True,OCT,10,7971
+Beverly,2016,99236,True,NOV,11,10466
+Beverly,2016,99236,True,DEC,12,9545
+Bezazian ,2016,134856,False,JAN,1,10658
+Bezazian ,2016,134856,False,FEB,2,10329
+Bezazian ,2016,134856,False,MAR,3,11799
+Bezazian ,2016,134856,False,APR,4,11849
+Bezazian ,2016,134856,False,MAY,5,9770
+Bezazian ,2016,134856,False,JUN,6,11750
+Bezazian ,2016,134856,False,JUL,7,12560
+Bezazian ,2016,134856,False,AUG,8,13404
+Bezazian ,2016,134856,False,SEP,9,11076
+Bezazian ,2016,134856,False,OCT,10,11920
+Bezazian ,2016,134856,False,NOV,11,10424
+Bezazian ,2016,134856,False,DEC,12,9317
+Blackstone ,2016,106539,False,JAN,1,8355
+Blackstone ,2016,106539,False,FEB,2,7777
+Blackstone ,2016,106539,False,MAR,3,8607
+Blackstone ,2016,106539,False,APR,4,9328
+Blackstone ,2016,106539,False,MAY,5,7925
+Blackstone ,2016,106539,False,JUN,6,9337
+Blackstone ,2016,106539,False,JUL,7,10983
+Blackstone ,2016,106539,False,AUG,8,10176
+Blackstone ,2016,106539,False,SEP,9,8849
+Blackstone ,2016,106539,False,OCT,10,9178
+Blackstone ,2016,106539,False,NOV,11,8333
+Blackstone ,2016,106539,False,DEC,12,7691
+Brainerd,2016,49623,True,JAN,1,3224
+Brainerd,2016,49623,True,FEB,2,3254
+Brainerd,2016,49623,True,MAR,3,4858
+Brainerd,2016,49623,True,APR,4,3887
+Brainerd,2016,49623,True,MAY,5,3518
+Brainerd,2016,49623,True,JUN,6,4131
+Brainerd,2016,49623,True,JUL,7,6901
+Brainerd,2016,49623,True,AUG,8,4983
+Brainerd,2016,49623,True,SEP,9,3713
+Brainerd,2016,49623,True,OCT,10,3849
+Brainerd,2016,49623,True,NOV,11,3668
+Brainerd,2016,49623,True,DEC,12,3637
+Brighton Park ,2016,77799,False,JAN,1,5393
+Brighton Park ,2016,77799,False,FEB,2,5511
+Brighton Park ,2016,77799,False,MAR,3,6932
+Brighton Park ,2016,77799,False,APR,4,5978
+Brighton Park ,2016,77799,False,MAY,5,5377
+Brighton Park ,2016,77799,False,JUN,6,8074
+Brighton Park ,2016,77799,False,JUL,7,8768
+Brighton Park ,2016,77799,False,AUG,8,7742
+Brighton Park ,2016,77799,False,SEP,9,7100
+Brighton Park ,2016,77799,False,OCT,10,6120
+Brighton Park ,2016,77799,False,NOV,11,5982
+Brighton Park ,2016,77799,False,DEC,12,4822
+Bucktown-Wicker Park ,2016,132858,False,JAN,1,9091
+Bucktown-Wicker Park ,2016,132858,False,FEB,2,9391
+Bucktown-Wicker Park ,2016,132858,False,MAR,3,14279
+Bucktown-Wicker Park ,2016,132858,False,APR,4,10746
+Bucktown-Wicker Park ,2016,132858,False,MAY,5,8926
+Bucktown-Wicker Park ,2016,132858,False,JUN,6,9676
+Bucktown-Wicker Park ,2016,132858,False,JUL,7,10111
+Bucktown-Wicker Park ,2016,132858,False,AUG,8,11587
+Bucktown-Wicker Park ,2016,132858,False,SEP,9,9185
+Bucktown-Wicker Park ,2016,132858,False,OCT,10,13587
+Bucktown-Wicker Park ,2016,132858,False,NOV,11,17832
+Bucktown-Wicker Park ,2016,132858,False,DEC,12,8447
+Budlong Woods,2016,128215,True,JAN,1,9835
+Budlong Woods,2016,128215,True,FEB,2,9606
+Budlong Woods,2016,128215,True,MAR,3,12417
+Budlong Woods,2016,128215,True,APR,4,9918
+Budlong Woods,2016,128215,True,MAY,5,9437
+Budlong Woods,2016,128215,True,JUN,6,10484
+Budlong Woods,2016,128215,True,JUL,7,11114
+Budlong Woods,2016,128215,True,AUG,8,10837
+Budlong Woods,2016,128215,True,SEP,9,9871
+Budlong Woods,2016,128215,True,OCT,10,12323
+Budlong Woods,2016,128215,True,NOV,11,14176
+Budlong Woods,2016,128215,True,DEC,12,8197
+Canaryville ,2016,40898,False,JAN,1,3108
+Canaryville ,2016,40898,False,FEB,2,2930
+Canaryville ,2016,40898,False,MAR,3,3357
+Canaryville ,2016,40898,False,APR,4,3228
+Canaryville ,2016,40898,False,MAY,5,3246
+Canaryville ,2016,40898,False,JUN,6,3993
+Canaryville ,2016,40898,False,JUL,7,3838
+Canaryville ,2016,40898,False,AUG,8,4261
+Canaryville ,2016,40898,False,SEP,9,3619
+Canaryville ,2016,40898,False,OCT,10,3603
+Canaryville ,2016,40898,False,NOV,11,2951
+Canaryville ,2016,40898,False,DEC,12,2764
+Chicago Bee,2016,70823,True,JAN,1,5885
+Chicago Bee,2016,70823,True,FEB,2,6277
+Chicago Bee,2016,70823,True,MAR,3,7171
+Chicago Bee,2016,70823,True,APR,4,5845
+Chicago Bee,2016,70823,True,MAY,5,5440
+Chicago Bee,2016,70823,True,JUN,6,7285
+Chicago Bee,2016,70823,True,JUL,7,5125
+Chicago Bee,2016,70823,True,AUG,8,5154
+Chicago Bee,2016,70823,True,SEP,9,4665
+Chicago Bee,2016,70823,True,OCT,10,7320
+Chicago Bee,2016,70823,True,NOV,11,6807
+Chicago Bee,2016,70823,True,DEC,12,3849
+Chicago Lawn  ,2016,70571,False,JAN,1,4911
+Chicago Lawn  ,2016,70571,False,FEB,2,5402
+Chicago Lawn  ,2016,70571,False,MAR,3,5998
+Chicago Lawn  ,2016,70571,False,APR,4,5886
+Chicago Lawn  ,2016,70571,False,MAY,5,5150
+Chicago Lawn  ,2016,70571,False,JUN,6,5562
+Chicago Lawn  ,2016,70571,False,JUL,7,6693
+Chicago Lawn  ,2016,70571,False,AUG,8,8132
+Chicago Lawn  ,2016,70571,False,SEP,9,5686
+Chicago Lawn  ,2016,70571,False,OCT,10,6062
+Chicago Lawn  ,2016,70571,False,NOV,11,5735
+Chicago Lawn  ,2016,70571,False,DEC,12,5354
+Chinatown ,2016,297123,False,JAN,1,20813
+Chinatown ,2016,297123,False,FEB,2,21456
+Chinatown ,2016,297123,False,MAR,3,26759
+Chinatown ,2016,297123,False,APR,4,24998
+Chinatown ,2016,297123,False,MAY,5,23675
+Chinatown ,2016,297123,False,JUN,6,27176
+Chinatown ,2016,297123,False,JUL,7,27982
+Chinatown ,2016,297123,False,AUG,8,26895
+Chinatown ,2016,297123,False,SEP,9,24078
+Chinatown ,2016,297123,False,OCT,10,27063
+Chinatown ,2016,297123,False,NOV,11,27052
+Chinatown ,2016,297123,False,DEC,12,19176
+Clearing,2016,73645,True,JAN,1,5654
+Clearing,2016,73645,True,FEB,2,6284
+Clearing,2016,73645,True,MAR,3,7152
+Clearing,2016,73645,True,APR,4,6088
+Clearing,2016,73645,True,MAY,5,5401
+Clearing,2016,73645,True,JUN,6,6105
+Clearing,2016,73645,True,JUL,7,6281
+Clearing,2016,73645,True,AUG,8,6051
+Clearing,2016,73645,True,SEP,9,5563
+Clearing,2016,73645,True,OCT,10,6777
+Clearing,2016,73645,True,NOV,11,7094
+Clearing,2016,73645,True,DEC,12,5195
+Coleman,2016,91661,True,JAN,1,4561
+Coleman,2016,91661,True,FEB,2,4506
+Coleman,2016,91661,True,MAR,3,7124
+Coleman,2016,91661,True,APR,4,6613
+Coleman,2016,91661,True,MAY,5,6502
+Coleman,2016,91661,True,JUN,6,8381
+Coleman,2016,91661,True,JUL,7,8824
+Coleman,2016,91661,True,AUG,8,9587
+Coleman,2016,91661,True,SEP,9,8475
+Coleman,2016,91661,True,OCT,10,8422
+Coleman,2016,91661,True,NOV,11,10873
+Coleman,2016,91661,True,DEC,12,7793
+"Daley, Richard J.-Bridgeport",2016,81841,False,JAN,1,6451
+"Daley, Richard J.-Bridgeport",2016,81841,False,FEB,2,6408
+"Daley, Richard J.-Bridgeport",2016,81841,False,MAR,3,7087
+"Daley, Richard J.-Bridgeport",2016,81841,False,APR,4,6683
+"Daley, Richard J.-Bridgeport",2016,81841,False,MAY,5,5968
+"Daley, Richard J.-Bridgeport",2016,81841,False,JUN,6,6915
+"Daley, Richard J.-Bridgeport",2016,81841,False,JUL,7,7848
+"Daley, Richard J.-Bridgeport",2016,81841,False,AUG,8,7268
+"Daley, Richard J.-Bridgeport",2016,81841,False,SEP,9,6774
+"Daley, Richard J.-Bridgeport",2016,81841,False,OCT,10,7179
+"Daley, Richard J.-Bridgeport",2016,81841,False,NOV,11,7398
+"Daley, Richard J.-Bridgeport",2016,81841,False,DEC,12,5862
+"Daley, Richard M.-W Humboldt",2016,101958,True,JAN,1,9432
+"Daley, Richard M.-W Humboldt",2016,101958,True,FEB,2,7359
+"Daley, Richard M.-W Humboldt",2016,101958,True,MAR,3,8116
+"Daley, Richard M.-W Humboldt",2016,101958,True,APR,4,7239
+"Daley, Richard M.-W Humboldt",2016,101958,True,MAY,5,7027
+"Daley, Richard M.-W Humboldt",2016,101958,True,JUN,6,8511
+"Daley, Richard M.-W Humboldt",2016,101958,True,JUL,7,9735
+"Daley, Richard M.-W Humboldt",2016,101958,True,AUG,8,10382
+"Daley, Richard M.-W Humboldt",2016,101958,True,SEP,9,8803
+"Daley, Richard M.-W Humboldt",2016,101958,True,OCT,10,8202
+"Daley, Richard M.-W Humboldt",2016,101958,True,NOV,11,7842
+"Daley, Richard M.-W Humboldt",2016,101958,True,DEC,12,9310
+Douglass  ,2016,86615,False,JAN,1,7879
+Douglass  ,2016,86615,False,FEB,2,690
+Douglass  ,2016,86615,False,MAR,3,8413
+Douglass  ,2016,86615,False,APR,4,7481
+Douglass  ,2016,86615,False,MAY,5,6717
+Douglass  ,2016,86615,False,JUN,6,7861
+Douglass  ,2016,86615,False,JUL,7,7875
+Douglass  ,2016,86615,False,AUG,8,8519
+Douglass  ,2016,86615,False,SEP,9,6557
+Douglass  ,2016,86615,False,OCT,10,7252
+Douglass  ,2016,86615,False,NOV,11,9313
+Douglass  ,2016,86615,False,DEC,12,8058
+Dunning,2016,129377,True,JAN,1,9014
+Dunning,2016,129377,True,FEB,2,9866
+Dunning,2016,129377,True,MAR,3,11584
+Dunning,2016,129377,True,APR,4,9999
+Dunning,2016,129377,True,MAY,5,11549
+Dunning,2016,129377,True,JUN,6,13243
+Dunning,2016,129377,True,JUL,7,9776
+Dunning,2016,129377,True,AUG,8,10800
+Dunning,2016,129377,True,SEP,9,11450
+Dunning,2016,129377,True,OCT,10,12545
+Dunning,2016,129377,True,NOV,11,10480
+Dunning,2016,129377,True,DEC,12,9071
+Edgebrook ,2016,97410,False,JAN,1,7207
+Edgebrook ,2016,97410,False,FEB,2,7613
+Edgebrook ,2016,97410,False,MAR,3,8594
+Edgebrook ,2016,97410,False,APR,4,7921
+Edgebrook ,2016,97410,False,MAY,5,7102
+Edgebrook ,2016,97410,False,JUN,6,9140
+Edgebrook ,2016,97410,False,JUL,7,9871
+Edgebrook ,2016,97410,False,AUG,8,8902
+Edgebrook ,2016,97410,False,SEP,9,7912
+Edgebrook ,2016,97410,False,OCT,10,7840
+Edgebrook ,2016,97410,False,NOV,11,8409
+Edgebrook ,2016,97410,False,DEC,12,6899
+Edgewater  ,2016,221324,False,JAN,1,15728
+Edgewater  ,2016,221324,False,FEB,2,15687
+Edgewater  ,2016,221324,False,MAR,3,21129
+Edgewater  ,2016,221324,False,APR,4,16645
+Edgewater  ,2016,221324,False,MAY,5,15729
+Edgewater  ,2016,221324,False,JUN,6,18888
+Edgewater  ,2016,221324,False,JUL,7,18989
+Edgewater  ,2016,221324,False,AUG,8,18887
+Edgewater  ,2016,221324,False,SEP,9,17616
+Edgewater  ,2016,221324,False,OCT,10,23141
+Edgewater  ,2016,221324,False,NOV,11,24398
+Edgewater  ,2016,221324,False,DEC,12,14487
+Gage Park ,2016,39975,False,JAN,1,3050
+Gage Park ,2016,39975,False,FEB,2,3077
+Gage Park ,2016,39975,False,MAR,3,3335
+Gage Park ,2016,39975,False,APR,4,3441
+Gage Park ,2016,39975,False,MAY,5,3050
+Gage Park ,2016,39975,False,JUN,6,3661
+Gage Park ,2016,39975,False,JUL,7,3645
+Gage Park ,2016,39975,False,AUG,8,3633
+Gage Park ,2016,39975,False,SEP,9,3226
+Gage Park ,2016,39975,False,OCT,10,3603
+Gage Park ,2016,39975,False,NOV,11,3337
+Gage Park ,2016,39975,False,DEC,12,2917
+Galewood-Mont Clare ,2016,20407,False,JAN,1,1742
+Galewood-Mont Clare ,2016,20407,False,FEB,2,1704
+Galewood-Mont Clare ,2016,20407,False,MAR,3,1789
+Galewood-Mont Clare ,2016,20407,False,APR,4,1892
+Galewood-Mont Clare ,2016,20407,False,MAY,5,1694
+Galewood-Mont Clare ,2016,20407,False,JUN,6,2005
+Galewood-Mont Clare ,2016,20407,False,JUL,7,2033
+Galewood-Mont Clare ,2016,20407,False,AUG,8,1909
+Galewood-Mont Clare ,2016,20407,False,SEP,9,1467
+Galewood-Mont Clare ,2016,20407,False,OCT,10,1461
+Galewood-Mont Clare ,2016,20407,False,NOV,11,1467
+Galewood-Mont Clare ,2016,20407,False,DEC,12,1244
+Garfield Ridge,2016,79082,True,JAN,1,5446
+Garfield Ridge,2016,79082,True,FEB,2,5707
+Garfield Ridge,2016,79082,True,MAR,3,7949
+Garfield Ridge,2016,79082,True,APR,4,6199
+Garfield Ridge,2016,79082,True,MAY,5,5410
+Garfield Ridge,2016,79082,True,JUN,6,7203
+Garfield Ridge,2016,79082,True,JUL,7,8353
+Garfield Ridge,2016,79082,True,AUG,8,8220
+Garfield Ridge,2016,79082,True,SEP,9,6249
+Garfield Ridge,2016,79082,True,OCT,10,7115
+Garfield Ridge,2016,79082,True,NOV,11,6000
+Garfield Ridge,2016,79082,True,DEC,12,5231
+Greater Grand Crossing,2016,35164,True,JAN,1,3350
+Greater Grand Crossing,2016,35164,True,FEB,2,3225
+Greater Grand Crossing,2016,35164,True,MAR,3,3264
+Greater Grand Crossing,2016,35164,True,APR,4,3220
+Greater Grand Crossing,2016,35164,True,MAY,5,2799
+Greater Grand Crossing,2016,35164,True,JUN,6,2911
+Greater Grand Crossing,2016,35164,True,JUL,7,2726
+Greater Grand Crossing,2016,35164,True,AUG,8,2956
+Greater Grand Crossing,2016,35164,True,SEP,9,2982
+Greater Grand Crossing,2016,35164,True,OCT,10,2742
+Greater Grand Crossing,2016,35164,True,NOV,11,2515
+Greater Grand Crossing,2016,35164,True,DEC,12,2474
+Hall ,2016,65850,False,JAN,1,5059
+Hall ,2016,65850,False,FEB,2,4888
+Hall ,2016,65850,False,MAR,3,4780
+Hall ,2016,65850,False,APR,4,5185
+Hall ,2016,65850,False,MAY,5,4842
+Hall ,2016,65850,False,JUN,6,5070
+Hall ,2016,65850,False,JUL,7,5271
+Hall ,2016,65850,False,AUG,8,6491
+Hall ,2016,65850,False,SEP,9,6359
+Hall ,2016,65850,False,OCT,10,5322
+Hall ,2016,65850,False,NOV,11,6412
+Hall ,2016,65850,False,DEC,12,6171
+Harold Washington Library Center,2016,1353311,True,JAN,1,119814
+Harold Washington Library Center,2016,1353311,True,FEB,2,115243
+Harold Washington Library Center,2016,1353311,True,MAR,3,132169
+Harold Washington Library Center,2016,1353311,True,APR,4,124196
+Harold Washington Library Center,2016,1353311,True,MAY,5,108962
+Harold Washington Library Center,2016,1353311,True,JUN,6,103942
+Harold Washington Library Center,2016,1353311,True,JUL,7,129580
+Harold Washington Library Center,2016,1353311,True,AUG,8,124409
+Harold Washington Library Center,2016,1353311,True,SEP,9,104590
+Harold Washington Library Center,2016,1353311,True,OCT,10,106236
+Harold Washington Library Center,2016,1353311,True,NOV,11,95583
+Harold Washington Library Center,2016,1353311,True,DEC,12,88587
+Hegewisch,2016,56252,True,JAN,1,4318
+Hegewisch,2016,56252,True,FEB,2,4354
+Hegewisch,2016,56252,True,MAR,3,4738
+Hegewisch,2016,56252,True,APR,4,4747
+Hegewisch,2016,56252,True,MAY,5,4316
+Hegewisch,2016,56252,True,JUN,6,5287
+Hegewisch,2016,56252,True,JUL,7,5507
+Hegewisch,2016,56252,True,AUG,8,5058
+Hegewisch,2016,56252,True,SEP,9,5020
+Hegewisch,2016,56252,True,OCT,10,5068
+Hegewisch,2016,56252,True,NOV,11,4278
+Hegewisch,2016,56252,True,DEC,12,3561
+Humboldt Park,2016,103298,True,JAN,1,6229
+Humboldt Park,2016,103298,True,FEB,2,7246
+Humboldt Park,2016,103298,True,MAR,3,10364
+Humboldt Park,2016,103298,True,APR,4,7671
+Humboldt Park,2016,103298,True,MAY,5,6750
+Humboldt Park,2016,103298,True,JUN,6,8053
+Humboldt Park,2016,103298,True,JUL,7,8321
+Humboldt Park,2016,103298,True,AUG,8,9161
+Humboldt Park,2016,103298,True,SEP,9,8798
+Humboldt Park,2016,103298,True,OCT,10,12572
+Humboldt Park,2016,103298,True,NOV,11,11979
+Humboldt Park,2016,103298,True,DEC,12,6154
+Independence ,2016,0,False,JAN,1,0
+Independence ,2016,0,False,FEB,2,0
+Independence ,2016,0,False,MAR,3,0
+Independence ,2016,0,False,APR,4,0
+Independence ,2016,0,False,MAY,5,0
+Independence ,2016,0,False,JUN,6,0
+Independence ,2016,0,False,JUL,7,0
+Independence ,2016,0,False,AUG,8,0
+Independence ,2016,0,False,SEP,9,0
+Independence ,2016,0,False,OCT,10,0
+Independence ,2016,0,False,NOV,11,0
+Independence ,2016,0,False,DEC,12,0
+Jefferson Park ,2016,94520,False,JAN,1,6882
+Jefferson Park ,2016,94520,False,FEB,2,7316
+Jefferson Park ,2016,94520,False,MAR,3,7587
+Jefferson Park ,2016,94520,False,APR,4,8056
+Jefferson Park ,2016,94520,False,MAY,5,7300
+Jefferson Park ,2016,94520,False,JUN,6,9050
+Jefferson Park ,2016,94520,False,JUL,7,9403
+Jefferson Park ,2016,94520,False,AUG,8,9220
+Jefferson Park ,2016,94520,False,SEP,9,7771
+Jefferson Park ,2016,94520,False,OCT,10,7833
+Jefferson Park ,2016,94520,False,NOV,11,8006
+Jefferson Park ,2016,94520,False,DEC,12,6096
+Jeffery Manor,2016,72488,True,JAN,1,5704
+Jeffery Manor,2016,72488,True,FEB,2,5566
+Jeffery Manor,2016,72488,True,MAR,3,6606
+Jeffery Manor,2016,72488,True,APR,4,4906
+Jeffery Manor,2016,72488,True,MAY,5,5219
+Jeffery Manor,2016,72488,True,JUN,6,5603
+Jeffery Manor,2016,72488,True,JUL,7,5412
+Jeffery Manor,2016,72488,True,AUG,8,5180
+Jeffery Manor,2016,72488,True,SEP,9,6493
+Jeffery Manor,2016,72488,True,OCT,10,9358
+Jeffery Manor,2016,72488,True,NOV,11,6807
+Jeffery Manor,2016,72488,True,DEC,12,5634
+Kelly,2016,65400,True,JAN,1,4723
+Kelly,2016,65400,True,FEB,2,4485
+Kelly,2016,65400,True,MAR,3,4636
+Kelly,2016,65400,True,APR,4,4975
+Kelly,2016,65400,True,MAY,5,4674
+Kelly,2016,65400,True,JUN,6,7989
+Kelly,2016,65400,True,JUL,7,6012
+Kelly,2016,65400,True,AUG,8,6536
+Kelly,2016,65400,True,SEP,9,5165
+Kelly,2016,65400,True,OCT,10,5577
+Kelly,2016,65400,True,NOV,11,5472
+Kelly,2016,65400,True,DEC,12,5156
+King,2016,74422,False,JAN,1,5693
+King,2016,74422,False,FEB,2,5542
+King,2016,74422,False,MAR,3,6687
+King,2016,74422,False,APR,4,5649
+King,2016,74422,False,MAY,5,5315
+King,2016,74422,False,JUN,6,6532
+King,2016,74422,False,JUL,7,6530
+King,2016,74422,False,AUG,8,6825
+King,2016,74422,False,SEP,9,6648
+King,2016,74422,False,OCT,10,6017
+King,2016,74422,False,NOV,11,7759
+King,2016,74422,False,DEC,12,5225
+Legler ,2016,94804,False,JAN,1,7306
+Legler ,2016,94804,False,FEB,2,7487
+Legler ,2016,94804,False,MAR,3,8923
+Legler ,2016,94804,False,APR,4,6840
+Legler ,2016,94804,False,MAY,5,6565
+Legler ,2016,94804,False,JUN,6,7386
+Legler ,2016,94804,False,JUL,7,8690
+Legler ,2016,94804,False,AUG,8,8948
+Legler ,2016,94804,False,SEP,9,8935
+Legler ,2016,94804,False,OCT,10,8127
+Legler ,2016,94804,False,NOV,11,8400
+Legler ,2016,94804,False,DEC,12,7197
+Lincoln Belmont,2016,157871,True,JAN,1,12315
+Lincoln Belmont,2016,157871,True,FEB,2,11279
+Lincoln Belmont,2016,157871,True,MAR,3,13391
+Lincoln Belmont,2016,157871,True,APR,4,13033
+Lincoln Belmont,2016,157871,True,MAY,5,10985
+Lincoln Belmont,2016,157871,True,JUN,6,14724
+Lincoln Belmont,2016,157871,True,JUL,7,15262
+Lincoln Belmont,2016,157871,True,AUG,8,15584
+Lincoln Belmont,2016,157871,True,SEP,9,13351
+Lincoln Belmont,2016,157871,True,OCT,10,13237
+Lincoln Belmont,2016,157871,True,NOV,11,12873
+Lincoln Belmont,2016,157871,True,DEC,12,11837
+Lincoln Park ,2016,139486,False,JAN,1,8992
+Lincoln Park ,2016,139486,False,FEB,2,9707
+Lincoln Park ,2016,139486,False,MAR,3,15502
+Lincoln Park ,2016,139486,False,APR,4,10141
+Lincoln Park ,2016,139486,False,MAY,5,8842
+Lincoln Park ,2016,139486,False,JUN,6,10700
+Lincoln Park ,2016,139486,False,JUL,7,11631
+Lincoln Park ,2016,139486,False,AUG,8,11298
+Lincoln Park ,2016,139486,False,SEP,9,10217
+Lincoln Park ,2016,139486,False,OCT,10,14714
+Lincoln Park ,2016,139486,False,NOV,11,18429
+Lincoln Park ,2016,139486,False,DEC,12,9313
+Little Village,2016,126527,True,JAN,1,10489
+Little Village,2016,126527,True,FEB,2,10162
+Little Village,2016,126527,True,MAR,3,10106
+Little Village,2016,126527,True,APR,4,11208
+Little Village,2016,126527,True,MAY,5,9613
+Little Village,2016,126527,True,JUN,6,11352
+Little Village,2016,126527,True,JUL,7,12143
+Little Village,2016,126527,True,AUG,8,12212
+Little Village,2016,126527,True,SEP,9,10730
+Little Village,2016,126527,True,OCT,10,10592
+Little Village,2016,126527,True,NOV,11,9625
+Little Village,2016,126527,True,DEC,12,8295
+Logan Square,2016,143684,True,JAN,1,11350
+Logan Square,2016,143684,True,FEB,2,11340
+Logan Square,2016,143684,True,MAR,3,12123
+Logan Square,2016,143684,True,APR,4,12851
+Logan Square,2016,143684,True,MAY,5,10875
+Logan Square,2016,143684,True,JUN,6,12681
+Logan Square,2016,143684,True,JUL,7,13041
+Logan Square,2016,143684,True,AUG,8,13581
+Logan Square,2016,143684,True,SEP,9,11597
+Logan Square,2016,143684,True,OCT,10,11999
+Logan Square,2016,143684,True,NOV,11,11506
+Logan Square,2016,143684,True,DEC,12,10740
+Lozano,2016,145739,False,JAN,1,11737
+Lozano,2016,145739,False,FEB,2,11462
+Lozano,2016,145739,False,MAR,3,13686
+Lozano,2016,145739,False,APR,4,12609
+Lozano,2016,145739,False,MAY,5,10865
+Lozano,2016,145739,False,JUN,6,13198
+Lozano,2016,145739,False,JUL,7,11414
+Lozano,2016,145739,False,AUG,8,12059
+Lozano,2016,145739,False,SEP,9,11576
+Lozano,2016,145739,False,OCT,10,11403
+Lozano,2016,145739,False,NOV,11,14151
+Lozano,2016,145739,False,DEC,12,11579
+Manning,2016,95736,True,JAN,1,8734
+Manning,2016,95736,True,FEB,2,8949
+Manning,2016,95736,True,MAR,3,7679
+Manning,2016,95736,True,APR,4,7928
+Manning,2016,95736,True,MAY,5,7603
+Manning,2016,95736,True,JUN,6,8412
+Manning,2016,95736,True,JUL,7,8894
+Manning,2016,95736,True,AUG,8,8550
+Manning,2016,95736,True,SEP,9,7175
+Manning,2016,95736,True,OCT,10,7696
+Manning,2016,95736,True,NOV,11,6972
+Manning,2016,95736,True,DEC,12,7144
+Mayfair  ,2016,64195,False,JAN,1,5123
+Mayfair  ,2016,64195,False,FEB,2,5167
+Mayfair  ,2016,64195,False,MAR,3,5896
+Mayfair  ,2016,64195,False,APR,4,5454
+Mayfair  ,2016,64195,False,MAY,5,4903
+Mayfair  ,2016,64195,False,JUN,6,5243
+Mayfair  ,2016,64195,False,JUL,7,6067
+Mayfair  ,2016,64195,False,AUG,8,6483
+Mayfair  ,2016,64195,False,SEP,9,5239
+Mayfair  ,2016,64195,False,OCT,10,5467
+Mayfair  ,2016,64195,False,NOV,11,4798
+Mayfair  ,2016,64195,False,DEC,12,4355
+McKinley Park,2016,86478,True,JAN,1,6617
+McKinley Park,2016,86478,True,FEB,2,5459
+McKinley Park,2016,86478,True,MAR,3,6036
+McKinley Park,2016,86478,True,APR,4,6206
+McKinley Park,2016,86478,True,MAY,5,5717
+McKinley Park,2016,86478,True,JUN,6,6757
+McKinley Park,2016,86478,True,JUL,7,7013
+McKinley Park,2016,86478,True,AUG,8,8868
+McKinley Park,2016,86478,True,SEP,9,8364
+McKinley Park,2016,86478,True,OCT,10,9161
+McKinley Park,2016,86478,True,NOV,11,8587
+McKinley Park,2016,86478,True,DEC,12,7693
+Merlo,2016,119782,False,JAN,1,8530
+Merlo,2016,119782,False,FEB,2,8636
+Merlo,2016,119782,False,MAR,3,12464
+Merlo,2016,119782,False,APR,4,9988
+Merlo,2016,119782,False,MAY,5,7972
+Merlo,2016,119782,False,JUN,6,9093
+Merlo,2016,119782,False,JUL,7,8791
+Merlo,2016,119782,False,AUG,8,9399
+Merlo,2016,119782,False,SEP,9,8391
+Merlo,2016,119782,False,OCT,10,13849
+Merlo,2016,119782,False,NOV,11,15086
+Merlo,2016,119782,False,DEC,12,7583
+Mount Greenwood,2016,77892,True,JAN,1,5777
+Mount Greenwood,2016,77892,True,FEB,2,6277
+Mount Greenwood,2016,77892,True,MAR,3,6474
+Mount Greenwood,2016,77892,True,APR,4,7216
+Mount Greenwood,2016,77892,True,MAY,5,6166
+Mount Greenwood,2016,77892,True,JUN,6,7073
+Mount Greenwood,2016,77892,True,JUL,7,7876
+Mount Greenwood,2016,77892,True,AUG,8,7072
+Mount Greenwood,2016,77892,True,SEP,9,6157
+Mount Greenwood,2016,77892,True,OCT,10,7077
+Mount Greenwood,2016,77892,True,NOV,11,5904
+Mount Greenwood,2016,77892,True,DEC,12,4823
+Near North,2016,146322,True,JAN,1,10714
+Near North,2016,146322,True,FEB,2,10689
+Near North,2016,146322,True,MAR,3,11376
+Near North,2016,146322,True,APR,4,12596
+Near North,2016,146322,True,MAY,5,11040
+Near North,2016,146322,True,JUN,6,12556
+Near North,2016,146322,True,JUL,7,13497
+Near North,2016,146322,True,AUG,8,12530
+Near North,2016,146322,True,SEP,9,12060
+Near North,2016,146322,True,OCT,10,14565
+Near North,2016,146322,True,NOV,11,14178
+Near North,2016,146322,True,DEC,12,10521
+North Austin  ,2016,62132,False,JAN,1,4964
+North Austin  ,2016,62132,False,FEB,2,5036
+North Austin  ,2016,62132,False,MAR,3,5035
+North Austin  ,2016,62132,False,APR,4,6487
+North Austin  ,2016,62132,False,MAY,5,4499
+North Austin  ,2016,62132,False,JUN,6,5330
+North Austin  ,2016,62132,False,JUL,7,6150
+North Austin  ,2016,62132,False,AUG,8,6209
+North Austin  ,2016,62132,False,SEP,9,4965
+North Austin  ,2016,62132,False,OCT,10,5074
+North Austin  ,2016,62132,False,NOV,11,4533
+North Austin  ,2016,62132,False,DEC,12,3850
+North Pulaski  ,2016,64251,False,JAN,1,4822
+North Pulaski  ,2016,64251,False,FEB,2,4904
+North Pulaski  ,2016,64251,False,MAR,3,4822
+North Pulaski  ,2016,64251,False,APR,4,5433
+North Pulaski  ,2016,64251,False,MAY,5,4736
+North Pulaski  ,2016,64251,False,JUN,6,6276
+North Pulaski  ,2016,64251,False,JUL,7,6114
+North Pulaski  ,2016,64251,False,AUG,8,6719
+North Pulaski  ,2016,64251,False,SEP,9,5482
+North Pulaski  ,2016,64251,False,OCT,10,6064
+North Pulaski  ,2016,64251,False,NOV,11,4521
+North Pulaski  ,2016,64251,False,DEC,12,4358
+Northtown ,2016,123908,False,JAN,1,8749
+Northtown ,2016,123908,False,FEB,2,8959
+Northtown ,2016,123908,False,MAR,3,10343
+Northtown ,2016,123908,False,APR,4,10243
+Northtown ,2016,123908,False,MAY,5,9896
+Northtown ,2016,123908,False,JUN,6,9580
+Northtown ,2016,123908,False,JUL,7,12957
+Northtown ,2016,123908,False,AUG,8,12370
+Northtown ,2016,123908,False,SEP,9,10882
+Northtown ,2016,123908,False,OCT,10,11289
+Northtown ,2016,123908,False,NOV,11,10047
+Northtown ,2016,123908,False,DEC,12,8593
+Oriole Park,2016,83670,True,JAN,1,6462
+Oriole Park,2016,83670,True,FEB,2,6909
+Oriole Park,2016,83670,True,MAR,3,7305
+Oriole Park,2016,83670,True,APR,4,6646
+Oriole Park,2016,83670,True,MAY,5,6279
+Oriole Park,2016,83670,True,JUN,6,7198
+Oriole Park,2016,83670,True,JUL,7,7648
+Oriole Park,2016,83670,True,AUG,8,8151
+Oriole Park,2016,83670,True,SEP,9,7341
+Oriole Park,2016,83670,True,OCT,10,7530
+Oriole Park,2016,83670,True,NOV,11,6471
+Oriole Park,2016,83670,True,DEC,12,5730
+Portage-Cragin ,2016,91331,False,JAN,1,6126
+Portage-Cragin ,2016,91331,False,FEB,2,6972
+Portage-Cragin ,2016,91331,False,MAR,3,9789
+Portage-Cragin ,2016,91331,False,APR,4,7206
+Portage-Cragin ,2016,91331,False,MAY,5,6160
+Portage-Cragin ,2016,91331,False,JUN,6,7016
+Portage-Cragin ,2016,91331,False,JUL,7,7112
+Portage-Cragin ,2016,91331,False,AUG,8,7563
+Portage-Cragin ,2016,91331,False,SEP,9,6831
+Portage-Cragin ,2016,91331,False,OCT,10,9420
+Portage-Cragin ,2016,91331,False,NOV,11,11230
+Portage-Cragin ,2016,91331,False,DEC,12,5906
+Pullman ,2016,66882,False,JAN,1,4754
+Pullman ,2016,66882,False,FEB,2,4711
+Pullman ,2016,66882,False,MAR,3,5472
+Pullman ,2016,66882,False,APR,4,7741
+Pullman ,2016,66882,False,MAY,5,6802
+Pullman ,2016,66882,False,JUN,6,5463
+Pullman ,2016,66882,False,JUL,7,6185
+Pullman ,2016,66882,False,AUG,8,6588
+Pullman ,2016,66882,False,SEP,9,4496
+Pullman ,2016,66882,False,OCT,10,5276
+Pullman ,2016,66882,False,NOV,11,4832
+Pullman ,2016,66882,False,DEC,12,4562
+Roden,2016,80703,False,JAN,1,4543
+Roden,2016,80703,False,FEB,2,4930
+Roden,2016,80703,False,MAR,3,11517
+Roden,2016,80703,False,APR,4,4934
+Roden,2016,80703,False,MAY,5,4497
+Roden,2016,80703,False,JUN,6,6092
+Roden,2016,80703,False,JUL,7,6503
+Roden,2016,80703,False,AUG,8,5949
+Roden,2016,80703,False,SEP,9,5165
+Roden,2016,80703,False,OCT,10,9507
+Roden,2016,80703,False,NOV,11,12892
+Roden,2016,80703,False,DEC,12,4174
+Rogers Park ,2016,174415,False,JAN,1,12062
+Rogers Park ,2016,174415,False,FEB,2,13147
+Rogers Park ,2016,174415,False,MAR,3,15392
+Rogers Park ,2016,174415,False,APR,4,14903
+Rogers Park ,2016,174415,False,MAY,5,12221
+Rogers Park ,2016,174415,False,JUN,6,16718
+Rogers Park ,2016,174415,False,JUL,7,19433
+Rogers Park ,2016,174415,False,AUG,8,16053
+Rogers Park ,2016,174415,False,SEP,9,13922
+Rogers Park ,2016,174415,False,OCT,10,14398
+Rogers Park ,2016,174415,False,NOV,11,13730
+Rogers Park ,2016,174415,False,DEC,12,12436
+Roosevelt,2016,88668,True,JAN,1,5162
+Roosevelt,2016,88668,True,FEB,2,6118
+Roosevelt,2016,88668,True,MAR,3,7187
+Roosevelt,2016,88668,True,APR,4,7285
+Roosevelt,2016,88668,True,MAY,5,6525
+Roosevelt,2016,88668,True,JUN,6,8479
+Roosevelt,2016,88668,True,JUL,7,8256
+Roosevelt,2016,88668,True,AUG,8,8280
+Roosevelt,2016,88668,True,SEP,9,7664
+Roosevelt,2016,88668,True,OCT,10,8238
+Roosevelt,2016,88668,True,NOV,11,7338
+Roosevelt,2016,88668,True,DEC,12,8136
+Scottsdale  ,2016,58854,False,JAN,1,4696
+Scottsdale  ,2016,58854,False,FEB,2,4680
+Scottsdale  ,2016,58854,False,MAR,3,5368
+Scottsdale  ,2016,58854,False,APR,4,5078
+Scottsdale  ,2016,58854,False,MAY,5,4508
+Scottsdale  ,2016,58854,False,JUN,6,5288
+Scottsdale  ,2016,58854,False,JUL,7,4856
+Scottsdale  ,2016,58854,False,AUG,8,5047
+Scottsdale  ,2016,58854,False,SEP,9,5221
+Scottsdale  ,2016,58854,False,OCT,10,5102
+Scottsdale  ,2016,58854,False,NOV,11,5279
+Scottsdale  ,2016,58854,False,DEC,12,3731
+Sherman Park ,2016,65626,False,JAN,1,4691
+Sherman Park ,2016,65626,False,FEB,2,4303
+Sherman Park ,2016,65626,False,MAR,3,4869
+Sherman Park ,2016,65626,False,APR,4,5179
+Sherman Park ,2016,65626,False,MAY,5,5045
+Sherman Park ,2016,65626,False,JUN,6,5551
+Sherman Park ,2016,65626,False,JUL,7,6234
+Sherman Park ,2016,65626,False,AUG,8,7907
+Sherman Park ,2016,65626,False,SEP,9,5886
+Sherman Park ,2016,65626,False,OCT,10,5706
+Sherman Park ,2016,65626,False,NOV,11,5524
+Sherman Park ,2016,65626,False,DEC,12,4731
+South Chicago ,2016,102781,False,JAN,1,8120
+South Chicago ,2016,102781,False,FEB,2,7580
+South Chicago ,2016,102781,False,MAR,3,8453
+South Chicago ,2016,102781,False,APR,4,8093
+South Chicago ,2016,102781,False,MAY,5,7378
+South Chicago ,2016,102781,False,JUN,6,6077
+South Chicago ,2016,102781,False,JUL,7,9277
+South Chicago ,2016,102781,False,AUG,8,11029
+South Chicago ,2016,102781,False,SEP,9,10484
+South Chicago ,2016,102781,False,OCT,10,10879
+South Chicago ,2016,102781,False,NOV,11,8627
+South Chicago ,2016,102781,False,DEC,12,6784
+South Shore  ,2016,102085,False,JAN,1,6934
+South Shore  ,2016,102085,False,FEB,2,7285
+South Shore  ,2016,102085,False,MAR,3,9158
+South Shore  ,2016,102085,False,APR,4,8948
+South Shore  ,2016,102085,False,MAY,5,8341
+South Shore  ,2016,102085,False,JUN,6,9815
+South Shore  ,2016,102085,False,JUL,7,8855
+South Shore  ,2016,102085,False,AUG,8,9620
+South Shore  ,2016,102085,False,SEP,9,8396
+South Shore  ,2016,102085,False,OCT,10,8802
+South Shore  ,2016,102085,False,NOV,11,9033
+South Shore  ,2016,102085,False,DEC,12,6898
+Sulzer Regional,2016,373089,True,JAN,1,36296
+Sulzer Regional,2016,373089,True,FEB,2,31982
+Sulzer Regional,2016,373089,True,MAR,3,34038
+Sulzer Regional,2016,373089,True,APR,4,35273
+Sulzer Regional,2016,373089,True,MAY,5,30836
+Sulzer Regional,2016,373089,True,JUN,6,35731
+Sulzer Regional,2016,373089,True,JUL,7,37894
+Sulzer Regional,2016,373089,True,AUG,8,36168
+Sulzer Regional,2016,373089,True,SEP,9,31240
+Sulzer Regional,2016,373089,True,OCT,10,14763
+Sulzer Regional,2016,373089,True,NOV,11,24355
+Sulzer Regional,2016,373089,True,DEC,12,24513
+Thurgood Marshall,2016,98929,True,JAN,1,7517
+Thurgood Marshall,2016,98929,True,FEB,2,7635
+Thurgood Marshall,2016,98929,True,MAR,3,7766
+Thurgood Marshall,2016,98929,True,APR,4,8433
+Thurgood Marshall,2016,98929,True,MAY,5,6798
+Thurgood Marshall,2016,98929,True,JUN,6,8478
+Thurgood Marshall,2016,98929,True,JUL,7,9336
+Thurgood Marshall,2016,98929,True,AUG,8,10440
+Thurgood Marshall,2016,98929,True,SEP,9,8610
+Thurgood Marshall,2016,98929,True,OCT,10,9098
+Thurgood Marshall,2016,98929,True,NOV,11,8076
+Thurgood Marshall,2016,98929,True,DEC,12,6742
+Toman ,2016,113103,True,JAN,1,8042
+Toman ,2016,113103,True,FEB,2,7657
+Toman ,2016,113103,True,MAR,3,9049
+Toman ,2016,113103,True,APR,4,9196
+Toman ,2016,113103,True,MAY,5,7505
+Toman ,2016,113103,True,JUN,6,9911
+Toman ,2016,113103,True,JUL,7,11759
+Toman ,2016,113103,True,AUG,8,11381
+Toman ,2016,113103,True,SEP,9,9831
+Toman ,2016,113103,True,OCT,10,10727
+Toman ,2016,113103,True,NOV,11,10731
+Toman ,2016,113103,True,DEC,12,7314
+Uptown,2016,138198,True,JAN,1,10794
+Uptown,2016,138198,True,FEB,2,10730
+Uptown,2016,138198,True,MAR,3,11686
+Uptown,2016,138198,True,APR,4,11822
+Uptown,2016,138198,True,MAY,5,10520
+Uptown,2016,138198,True,JUN,6,11260
+Uptown,2016,138198,True,JUL,7,10916
+Uptown,2016,138198,True,AUG,8,11335
+Uptown,2016,138198,True,SEP,9,15468
+Uptown,2016,138198,True,OCT,10,11916
+Uptown,2016,138198,True,NOV,11,11049
+Uptown,2016,138198,True,DEC,12,10702
+Vodak-East Side,2016,82816,True,JAN,1,5816
+Vodak-East Side,2016,82816,True,FEB,2,6545
+Vodak-East Side,2016,82816,True,MAR,3,7578
+Vodak-East Side,2016,82816,True,APR,4,6469
+Vodak-East Side,2016,82816,True,MAY,5,5746
+Vodak-East Side,2016,82816,True,JUN,6,6894
+Vodak-East Side,2016,82816,True,JUL,7,7073
+Vodak-East Side,2016,82816,True,AUG,8,6973
+Vodak-East Side,2016,82816,True,SEP,9,7545
+Vodak-East Side,2016,82816,True,OCT,10,8597
+Vodak-East Side,2016,82816,True,NOV,11,7886
+Vodak-East Side,2016,82816,True,DEC,12,5694
+Walker ,2016,57463,False,JAN,1,5086
+Walker ,2016,57463,False,FEB,2,4462
+Walker ,2016,57463,False,MAR,3,5888
+Walker ,2016,57463,False,APR,4,5600
+Walker ,2016,57463,False,MAY,5,4999
+Walker ,2016,57463,False,JUN,6,4657
+Walker ,2016,57463,False,JUL,7,5025
+Walker ,2016,57463,False,AUG,8,4195
+Walker ,2016,57463,False,SEP,9,4525
+Walker ,2016,57463,False,OCT,10,4604
+Walker ,2016,57463,False,NOV,11,4611
+Walker ,2016,57463,False,DEC,12,3811
+West Belmont ,2016,107113,False,JAN,1,7710
+West Belmont ,2016,107113,False,FEB,2,8273
+West Belmont ,2016,107113,False,MAR,3,11287
+West Belmont ,2016,107113,False,APR,4,8034
+West Belmont ,2016,107113,False,MAY,5,6784
+West Belmont ,2016,107113,False,JUN,6,8069
+West Belmont ,2016,107113,False,JUL,7,8901
+West Belmont ,2016,107113,False,AUG,8,9246
+West Belmont ,2016,107113,False,SEP,9,8086
+West Belmont ,2016,107113,False,OCT,10,10306
+West Belmont ,2016,107113,False,NOV,11,14128
+West Belmont ,2016,107113,False,DEC,12,6289
+West Chicago Avenue,2016,38328,True,JAN,1,6488
+West Chicago Avenue,2016,38328,True,FEB,2,2993
+West Chicago Avenue,2016,38328,True,MAR,3,2486
+West Chicago Avenue,2016,38328,True,APR,4,2227
+West Chicago Avenue,2016,38328,True,MAY,5,2220
+West Chicago Avenue,2016,38328,True,JUN,6,2851
+West Chicago Avenue,2016,38328,True,JUL,7,2876
+West Chicago Avenue,2016,38328,True,AUG,8,3007
+West Chicago Avenue,2016,38328,True,SEP,9,2798
+West Chicago Avenue,2016,38328,True,OCT,10,3463
+West Chicago Avenue,2016,38328,True,NOV,11,4748
+West Chicago Avenue,2016,38328,True,DEC,12,2171
+West Englewood,2016,114176,True,JAN,1,9417
+West Englewood,2016,114176,True,FEB,2,8036
+West Englewood,2016,114176,True,MAR,3,9812
+West Englewood,2016,114176,True,APR,4,9876
+West Englewood,2016,114176,True,MAY,5,9026
+West Englewood,2016,114176,True,JUN,6,9027
+West Englewood,2016,114176,True,JUL,7,11154
+West Englewood,2016,114176,True,AUG,8,12337
+West Englewood,2016,114176,True,SEP,9,9728
+West Englewood,2016,114176,True,OCT,10,9755
+West Englewood,2016,114176,True,NOV,11,8213
+West Englewood,2016,114176,True,DEC,12,7795
+West Lawn ,2016,79280,False,JAN,1,5930
+West Lawn ,2016,79280,False,FEB,2,6227
+West Lawn ,2016,79280,False,MAR,3,7947
+West Lawn ,2016,79280,False,APR,4,6491
+West Lawn ,2016,79280,False,MAY,5,5492
+West Lawn ,2016,79280,False,JUN,6,6957
+West Lawn ,2016,79280,False,JUL,7,7218
+West Lawn ,2016,79280,False,AUG,8,7155
+West Lawn ,2016,79280,False,SEP,9,6844
+West Lawn ,2016,79280,False,OCT,10,7179
+West Lawn ,2016,79280,False,NOV,11,6431
+West Lawn ,2016,79280,False,DEC,12,5409
+West Pullman,2016,90324,True,JAN,1,6766
+West Pullman,2016,90324,True,FEB,2,6344
+West Pullman,2016,90324,True,MAR,3,7757
+West Pullman,2016,90324,True,APR,4,6950
+West Pullman,2016,90324,True,MAY,5,5677
+West Pullman,2016,90324,True,JUN,6,6636
+West Pullman,2016,90324,True,JUL,7,6771
+West Pullman,2016,90324,True,AUG,8,7727
+West Pullman,2016,90324,True,SEP,9,6776
+West Pullman,2016,90324,True,OCT,10,8808
+West Pullman,2016,90324,True,NOV,11,10155
+West Pullman,2016,90324,True,DEC,12,9957
+West Town,2016,124871,False,JAN,1,10505
+West Town,2016,124871,False,FEB,2,10322
+West Town,2016,124871,False,MAR,3,11844
+West Town,2016,124871,False,APR,4,10361
+West Town,2016,124871,False,MAY,5,8949
+West Town,2016,124871,False,JUN,6,10115
+West Town,2016,124871,False,JUL,7,10694
+West Town,2016,124871,False,AUG,8,10826
+West Town,2016,124871,False,SEP,9,10246
+West Town,2016,124871,False,OCT,10,11161
+West Town,2016,124871,False,NOV,11,10548
+West Town,2016,124871,False,DEC,12,9300
+"Whitney M. Young, Jr. ",2016,90934,False,JAN,1,6080
+"Whitney M. Young, Jr. ",2016,90934,False,FEB,2,7600
+"Whitney M. Young, Jr. ",2016,90934,False,MAR,3,7670
+"Whitney M. Young, Jr. ",2016,90934,False,APR,4,9486
+"Whitney M. Young, Jr. ",2016,90934,False,MAY,5,6658
+"Whitney M. Young, Jr. ",2016,90934,False,JUN,6,7350
+"Whitney M. Young, Jr. ",2016,90934,False,JUL,7,8037
+"Whitney M. Young, Jr. ",2016,90934,False,AUG,8,8366
+"Whitney M. Young, Jr. ",2016,90934,False,SEP,9,7333
+"Whitney M. Young, Jr. ",2016,90934,False,OCT,10,7914
+"Whitney M. Young, Jr. ",2016,90934,False,NOV,11,7751
+"Whitney M. Young, Jr. ",2016,90934,False,DEC,12,6689
+Woodson Regional,2016,283611,False,JAN,1,27542
+Woodson Regional,2016,283611,False,FEB,2,25959
+Woodson Regional,2016,283611,False,MAR,3,29356
+Woodson Regional,2016,283611,False,APR,4,27623
+Woodson Regional,2016,283611,False,MAY,5,24923
+Woodson Regional,2016,283611,False,JUN,6,25565
+Woodson Regional,2016,283611,False,JUL,7,23540
+Woodson Regional,2016,283611,False,AUG,8,28379
+Woodson Regional,2016,283611,False,SEP,9,25323
+Woodson Regional,2016,283611,False,OCT,10,33245
+Woodson Regional,2016,283611,False,NOV,11,12156
+Woodson Regional,2016,283611,False,DEC,12,0
+Wrightwood-Ashburn,2016,65873,True,JAN,1,3954
+Wrightwood-Ashburn,2016,65873,True,FEB,2,5033
+Wrightwood-Ashburn,2016,65873,True,MAR,3,3406
+Wrightwood-Ashburn,2016,65873,True,APR,4,4703
+Wrightwood-Ashburn,2016,65873,True,MAY,5,4877
+Wrightwood-Ashburn,2016,65873,True,JUN,6,4865
+Wrightwood-Ashburn,2016,65873,True,JUL,7,6596
+Wrightwood-Ashburn,2016,65873,True,AUG,8,6353
+Wrightwood-Ashburn,2016,65873,True,SEP,9,6117
+Wrightwood-Ashburn,2016,65873,True,OCT,10,7084
+Wrightwood-Ashburn,2016,65873,True,NOV,11,6849
+Wrightwood-Ashburn,2016,65873,True,DEC,12,6036
+,2016,0,,JAN,1,0
+,2016,0,,FEB,2,0
+,2016,0,,MAR,3,0
+,2016,0,,APR,4,0
+,2016,0,,MAY,5,0
+,2016,0,,JUN,6,0
+,2016,0,,JUL,7,0
+,2016,0,,AUG,8,0
+,2016,0,,SEP,9,0
+,2016,0,,OCT,10,0
+,2016,0,,NOV,11,0
+,2016,0,,DEC,12,0
