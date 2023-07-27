@@ -1,4 +1,4 @@
-# Chicago-Public-Libraries-Analysis
+# Chicago-Public-Libraries-Data-Analysis
 
 This project provides an in-depth analysis of public libraries in the city of Chicago. It uses public data available through the City of Chicago Data Portal to perform an investigation into the distribution of libraries across the city and their usage patterns.
 
