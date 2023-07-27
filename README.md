@@ -62,7 +62,7 @@ The results of this analysis could be beneficial for strategic decision-making r
 The analysis could be further improved by incorporating additional data such as population and temperature. Population data could help adjust the visitor counts by the population to get a per capita visitor count, providing a more accurate measure of library usage. Temperature data could help examine the correlation between (extreme) temperature and library usage. Incorporating these additional data would involve several steps including data collection, data cleaning and preprocessing, exploratory data analysis, modeling, and evaluation and interpretation.
 
 ## Note
-To fully understand the conclusions drawn in this analysis, it is recommended to go through the entire notebook, including the code and its outputs.
+To fully understand the conclusions drawn in this analysis, it is recommended to go through the entire notebook, including the code and its outputs. You can view the HTML version fo the notebook [here](https://rawcdn.githack.com/JESUSC1/Chicago-Public-Libraries-Data-Analysis/1df9b97597c4fbed337e4935efc9fd1ea821440a/CPL-Data-Analysis.html). 
 
 ## Author
 Jesus Cantu Jr. 
