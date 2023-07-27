@@ -36,13 +36,21 @@ The analysis is divided into several sections:
 3. **Statistical Testing**: In this section, a hypothesis test (specifically, Welch's t-test) is performed to assess whether the observed decrease in visitor count after 2020 is statistically significant. The t-test compares the mean visitor count before and after 2020. The null hypothesis is that the means are equal, while the alternative hypothesis is that the mean visitor count after 2020 is lower. The analysis includes checks for the assumptions of the t-test, such as the normality of the data and the equality of variances.
 
 ## Libraries Used
-The primary libraries used in this analysis include:
+The analysis utilizes the following Python libraries and packages:
 
-- `pandas` for data manipulation.
-- `folium` for generating interactive maps.
-- `matplotlib` and `seaborn` for data visualization.
-- `scipy` for statistical testing.
-  
+- `folium`: For generating interactive maps.
+- `pandas`: For data manipulation and analysis.
+- `numpy`: For numerical computations.
+- `geopandas`: For working with geospatial data.
+- `matplotlib`: For data visualization.
+- `seaborn`: For enhanced data visualization.
+- `statsmodels`: For statistical analysis and modeling.
+- `scipy`: For scientific computing and statistical testing.
+- `geopy`: For geocoding and distance calculations.
+- `shapely`: For geometric operations on geometries.
+- `pandas_profiling`: For generating descriptive statistics and visualizations for pandas dataframe.
+- `sklearn`: For machine learning models (specifically, `LinearRegression`).
+
 The data was processed and analyzed using a variety of Python libraries, including `pandas` for data manipulation, `folium` for generating interactive maps, `matplotlib` and `seaborn` for data visualization, and `scipy` for statistical testing. The analysis provided strong evidence of a significant decrease in library usage after 2020.
 
 
@@ -54,3 +62,9 @@ The analysis could be further improved by incorporating additional data such as 
 
 ## Note
 To fully understand the conclusions drawn in this analysis, it is recommended to go through the entire notebook, including the code and its outputs.
+
+## Author
+Jesus Cantu Jr. 
+
+
+
