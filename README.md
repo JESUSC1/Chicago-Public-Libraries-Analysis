@@ -57,7 +57,7 @@ The data was processed and analyzed using a variety of Python libraries, includi
 ## Key Achievements:
 - Crafted interactive maps using `folium` to elucidate the spatial distribution of libraries, aiding in strategic decision-making related to library placements and resources.
 - Highlighted a decline in library visitation in specific regions over the years, emphasizing the need for targeted initiatives.
-- Offered data-driven insights that could potentially enhance user engagement and the overall library experience, considering external factors like the COVID-19 pandemic which had an impact on attentance.
+- Offered data-driven insights that could potentially enhance user engagement and the overall library experience, considering external factors like the COVID-19 pandemic which had an everlasting impact on attendance.
 
 
 ## Conclusion
