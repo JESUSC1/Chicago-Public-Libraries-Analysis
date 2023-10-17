@@ -59,7 +59,6 @@ The data was processed and analyzed using a variety of Python libraries, includi
 - Highlighted a decline in library visitation in specific regions over the years, emphasizing the need for targeted initiatives.
 - Offered data-driven insights that could potentially enhance user engagement and the overall library experience, considering external factors like the COVID-19 pandemic which had an everlasting impact on attendance.
 
-
 ## Conclusion
 The results of this analysis could be beneficial for strategic decision-making related to the placement of new libraries, allocation of resources, and understanding the impact of factors like the COVID-19 pandemic on library usage. The analysis provides strong evidence of a significant decrease in library usage after 2020, both through visualization and statistical testing.
 
