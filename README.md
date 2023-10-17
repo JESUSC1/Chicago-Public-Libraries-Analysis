@@ -27,15 +27,6 @@ The data used in this analysis comes from multiple datasets available through th
 
 These data sets were used to analyze the spatial distribution of libraries across the city and to investigate the usage patterns of the libraries over time.
 
-## Analysis
-The analysis is divided into several sections:
-
-1. **Spatial Analysis**: This section investigates the spatial distribution of libraries across the city of Chicago. This is achieved by using the Python library `folium` to generate interactive maps. The maps help visualize the density of libraries across different regions.
-
-2. **Usage Patterns**: This section investigates the usage patterns of the libraries, focusing on the number of monthly visitors. The analysis visualizes the visitor count over the years and identifies any significant trends or patterns.
-
-3. **Statistical Testing**: In this section, a hypothesis test (specifically, Welch's t-test) is performed to assess whether the observed decrease in visitor count after 2020 is statistically significant. The t-test compares the mean visitor count before and after 2020. The null hypothesis is that the means are equal, while the alternative hypothesis is that the mean visitor count after 2020 is lower. The analysis includes checks for the assumptions of the t-test, such as the normality of the data and the equality of variances.
-
 ## Libraries Used
 The analysis utilizes the following Python libraries and packages:
 
@@ -54,6 +45,15 @@ The analysis utilizes the following Python libraries and packages:
 
 The data was processed and analyzed using a variety of Python libraries, including `pandas` for data manipulation, `folium` for generating interactive maps, `matplotlib` and `seaborn` for data visualization, and `scipy` for statistical testing. The analysis provided strong evidence of a significant decrease in library usage after 2020.
 
+## Analysis
+The analysis is divided into several sections:
+
+1. **Spatial Analysis**: This section investigates the spatial distribution of libraries across the city of Chicago. This is achieved by using the Python library `folium` to generate interactive maps. The maps help visualize the density of libraries across different regions.
+
+2. **Usage Patterns**: This section investigates the usage patterns of the libraries, focusing on the number of monthly visitors. The analysis visualizes the visitor count over the years and identifies any significant trends or patterns.
+
+3. **Statistical Testing**: In this section, a hypothesis test (specifically, Welch's t-test) is performed to assess whether the observed decrease in visitor count after 2020 is statistically significant. The t-test compares the mean visitor count before and after 2020. The null hypothesis is that the means are equal, while the alternative hypothesis is that the mean visitor count after 2020 is lower. The analysis includes checks for the assumptions of the t-test, such as the normality of the data and the equality of variances.
+
 ## Key Achievements:
 - Crafted interactive maps using `folium` to elucidate the spatial distribution of libraries, aiding in strategic decision-making related to library placements and resources.
 - Highlighted a decline in library visitation in specific regions over the years, emphasizing the need for targeted initiatives.
@@ -71,5 +71,7 @@ To fully understand the conclusions drawn in this analysis, it is recommended to
 ## Author
 Jesus Cantu Jr. 
 
+## Last Updated
+July 26, 2023
 
 
