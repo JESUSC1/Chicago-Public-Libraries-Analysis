@@ -3,9 +3,6 @@
 
 This project provides an in-depth analysis of public libraries in the city of Chicago. It uses public data available through the City of Chicago Data Portal to perform an investigation into the distribution of libraries across the city and their usage patterns.
 
-## Description
-Undertook a detailed analysis of Chicago's public libraries, emphasizing spatial distribution and library usage patterns. Utilized interactive maps to visualize the geographical spread and density of libraries across the city. Further delved into monthly visitor statistics from 2011 to 2023, analyzing the impact of significant events such as the COVID-19 pandemic on library attendance.
-
 ## Data Source
 The data used in this analysis comes from multiple datasets available through the City of Chicago Data Portal:
 
