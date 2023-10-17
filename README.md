@@ -54,6 +54,10 @@ The analysis utilizes the following Python libraries and packages:
 
 The data was processed and analyzed using a variety of Python libraries, including `pandas` for data manipulation, `folium` for generating interactive maps, `matplotlib` and `seaborn` for data visualization, and `scipy` for statistical testing. The analysis provided strong evidence of a significant decrease in library usage after 2020.
 
+## Key Achievements:
+- Crafted interactive maps using `folium` to elucidate the spatial distribution of libraries, aiding in strategic decision-making related to library placements and resources.
+- Highlighted a decline in library visitation in specific regions over the years, emphasizing the need for targeted initiatives.
+- Offered data-driven insights that could potentially enhance user engagement and the overall library experience, considering external factors like the COVID-19 pandemic.
 
 ## Conclusion
 The results of this analysis could be beneficial for strategic decision-making related to the placement of new libraries, allocation of resources, and understanding the impact of factors like the COVID-19 pandemic on library usage. The analysis provides strong evidence of a significant decrease in library usage after 2020, both through visualization and statistical testing.
